@@ -1,0 +1,733 @@
+-----------------------------------
+GB
+
+16297 一 1996
+
+Integrated emission standard of air poliutants
+
+1996 - 04 - 12 发 布
+
+1997 - 01 - 01
+
+国 家 环 境 保 护 局 国 家 技 术 监 督 局 气 市
+-----------------------------------
+实 施
+
+二T】=唇 E
+<table><tr><td>FD 。</td><td>_弓l【用有瑟^莆蓄佳</td><td>【</td></tr><tr><td>00</td><td></td><td>扬</td></tr><tr><td>“ 心</td><td>孛旨′本′董′_{《本系</td><td>阜</td></tr><tr><td>01</td><td>、 一 排放悚率标准分级</td><td>t</td></tr><tr><td>_C5</td><td>标 准 儋</td><td>吴 .</td></tr><tr><td>气</td><td>其 它 规 定</td><td></td></tr><tr><td>“C0“_</td><td>监 测 …</td><td></td></tr><tr><td>D</td><td>余 准 实 施 ,</td><td>国</td></tr><tr><td>附</td><td>录 删标准的附录〉</td><td>叁争辜乡竟鱼〔叠…蠢悖气'「t善T有昱白蓼垦墅宣爹〔主十工兽〔 。</td></tr><tr><td>附</td><td>录 B( 标 准 的 附 录 )</td><td>确定某排气筒最高允许排放速率的内才I…l=言法和夕卜盏′佳2去 e 。</td></tr></table>
+-----------------------------------
+“Co
+
+《C
+
+心
+
+A 切 “ 言
+
+根 据 6 中 华 人 民 共 和 国 大 气 污 染 防 治 法 ) 第 七 条 的 规 定 , 制 定 本 标 准 。
+
+本 标 准 在 原 有 ( 工 业 “ 三 废 “ 排 放 试 行 标 准 %(GBJ 4 一 73) 废 气 鄂 分 和 有 关 其 它 行 业 性 国 家 大 气 污 染 物 排 放 标 准 的 基 础 上 制 定 。 本 标 准 在 技 术 内 容 上 与 原 有 各 标 准 有 一 定 的 继 承 关 系 , 亦 有 相 当 大 的 修 改 和 变 化
+
+本 标 准 规 定 了 33 种 大 气 污 染 物 的 排 放 限 值 , 其 指 标 体 系 为 最 高 允 许 排 放 浓 度 , 最 高 允 许 排 放 速 率 和 无 组 织 排 放 监 控 浓 度 限 值 。
+
+织 排 放 监 控 浓 度 限 值 。 国 家 在 控 制 大 气 污 染 物 排 放 方 面 , 除 本 标 准 为 综 合 性 排 放 标 准 外 , 还 有 若 干 行 业 性 排 放 标 准 共 同 存 除 若 于 行 业 执 行 各 自 的 行 业 性 国 家 大 气 污 染 物 排 放 标 准 外 , 其 余 均 执 行 本 标 准 。 本 标 准 从 1997 年 1 月 1 日 起 实 施 。 下 列 各 标 准 的 废 气 部 分 由 本 标 准 取 代 , 自 本 标 准 实 施 之 日 起 , 下 列 各 标 准 的 废 气 部 分 即 行 废 除 , GBJ 4 一 73 工 业 “ 三 废 “ 排 放 试 行 标 准 GB 3548 一 83 GB 4276 一 84 GB 4277 一 84 GB 4282 一 84 GB 4286 一 84 GB 4911 一 85 GB 4912 一 85 GB 4913 一 85 GB 4916 一 85 GB 4917 一 85 合 成 洗 涤 茨 工 业 污 染 物 排 放 标 准 火 炸 药 工 业 硫 酸 浓 缩 污 染 物 排 放 标 准 雷 河 工 业 污 染 物 排 放 标 准 疏 酸 工 业 污 染 物 排 放 标 准 船 舶 工 业 污 染 物 排 放 标 准 钢 铁 工 业 污 染 物 排 放 标 准 轻 金 属 工 业 污 染 物 排 放 标 准 重 有 色 金 属 工 业 污 染 物 排 放 标 准 沥 青 工 业 污 染 物 排 放 标 准 普 钙 工 业 污 染 物 排 放 标 准 本 标 准 的 附 录 A、 附 录 B、 附 录 C 都 是 标 准 的 附 录 。 本 标 准 由 国 家 环 境 保 护 局 科 技 标 准 司 提 出 。 本 标 准 由 国 家 环 境 保 护 局 负 责 解 释 。
+-----------------------------------
+即
+
+。
+
+在 ,
+
+中 华 人 民 共 和 国 国 家 标 准
+
+大 气 污 染 物 综 合 排 放 标 准
+
+GB 16297 一 1996
+
+Integrated emission standard of air poliutants
+-----------------------------------
+代
+
+荐 GB 3548 一 83,\GB 4276 一 84、 GB 4277 一 4,GB 4282 一 84、 GB 4286 一 84GB 4911 一 85、 GB 4912 一 85,GB 4913 一 85、 GB 4916 一 85\GB 4917 一 85、 GBJ 4 一 73 各 标 准 中 的 废 气 部
+
+一
+
+1
+-----------------------------------
+主 题 内 容 与 适 用 范 围
+
+1. 1 主 题 内 容
+
+本 标 准 规 定 了 33 种 大 气 污 染 物 的 排 放 限 值 , 同 时 规 定 了 标 准 执 行 中 的 各 种 要 求
+
+。
+
+1. 2 适 用 范 图
+
+}
+
+1 2. 1 在 我 国 现 有 的 国 家 大 气 污 染 物 排 放 标 准 体 系 中 , 拳 照 综 合 性 排 放 标 准 与 行 业 性 排 放 标 准 不 交 叉 执 行 的 原 则 , 铼 炉 执 行 GB 13271 一 91《 锅 炉 大 气 污 染 物 排 放 标 准 》 工 业 炉 窟 执 行 GB 9078 一 1996《 工 业 炉 宿 大 气 污 染 物 排 放 标 准 》 火 电 厂 执 行 GB 13223 一 1996《 火 电 厂 大 气 污 染 物 排 放 标 准 》、 炼 焦 炉 执 行 GB 16171 一 1996《 炼 焦 炉 大 气 污 染 物 排 放 标 准 》、 水 泥 厂 执 行 GB 4915 一 1996《 水 泥 厂 大 气 污 染 物 排 放 标 准 》 恶 奥 物 质 排 放 执 行 GB 14554 一 934 恶 臭 污 染 物 排 放 标 准 办 汽 车 排 放 执 行 GB 14761. 1 一 14761. 7 一 93《 汽 车 大 气 污 染 物 排 放 标 准 办 摩 托 车 排 气 执 行 GB 14621 一 脚《摩托车排气污染物排放标准》其它犬气污染物排放均执行本标 准 。
+-----------------------------------
+1. 2.2 本 标 准 实 施 后 再 行 发 布 的 行 业 性 国 家 大 气 污 染 物 排 放 标 准 , 按 其 适 用 范 围 规 定 的 污 染 源 不 再 执 行 本 标 准 。
+
+1. 2.3 本 标 准 适 用 于 现 有 污 染 源 大 气 污 染 物 排 放 管 理 , 以 及 建 设 项 目 的 环 境 影 响 评 价 . 设 计 、 土乎「士竟1呆茅 …】谬之L寅j茁 竣 工 验 收 及 其 投 产 后 的 大 气 污 染 物 排 放 管 理 。
+
+2 引 用 标 准
+
+下 列 标 准 所 包 含 的 条 文 , 通 过 在 本 标 准 中 引 用 而 构 成 为 本 标 准 的 条 文 。
+
+.
+
+GB 3095 一 1996 “ 环 境 空 气 质 量 标 准
+
+GB/T 16157 一 1996 固 定 污 染 源 排 气 中 颗 粒 物 测 定 与 气 态 污 染 物 采 样 方 法
+
+3 定 义
+-----------------------------------
+一 一
+
+国 家 环 境 保 护 局 1996-04-12 批 准
+
+1997 - 01 - 01
+
+分
+
+实 施
+
+本 标 准 采 用 下 列 定 义 ;
+
+3.1 标 准 状 态
+
+.
+
+指 温 度 为 273K , 压 力 为 101 325Pa 时 的 状 态 。 本 标 准 规 定 的 各 项 标 准 值 , 均 以 标 准 状 态 下 的 干 空 气 为 基 棣
+
+3. 2 最 高 允 许 排 放 浓 度
+
+指 处 理 设 施 后 排 气 简 中 污 染 物 任 何 1 小 时 浓 度 平 均 值 不 得 超 过 的 限 值 ; 或 指 无 处 理 设 施 排 气 简 中 污 染 物 任 何 1 小 时 浓 度 平 均 值 不 得 超 过 的 限 值 。
+
+3. 3 最 高 允 许 排 放 速 率 (Maximum allowable emission rate)
+
+指 一 定 高 度 的 排 气 筒 任 何 1 小 时 排 放 污 染 物 的 质 量 不 得 超 过 的 限 值 。
+
+3.4 无 组 织 排 放
+
+指 大 气 污 染 物 不 经 过 排 气 简 的 无 规 则 排 放 ,. 低 矮 排 气 简 的 排 放 属 有 组 织 排 放 , 但 在 一 定 条 件 下 也 可 造 成 与 无 组 织 排 放 相 同 的 后 果 。 因 此 , 在 执 行 “ 无 组 织 排 放 监 控 浓 度 限 值 “ 指 标 时 , 由 低 矮 排 气 筒 造 成 的 监 控 点 污 染 物 浓 度 增 加 不 予 扣 除 。
+-----------------------------------
+3.5 无 组 织 排 放 监 控 点
+
+依 照 本 标 准 附 录 C 的 规 定 , 为 判 别 无 组 织 排 放 是 否 超 过 标 准 而 设 立 的 监 测 点 。
+
+3.6 无 组 织 排 放 监 控 浓 度 限 值
+
+指 监 控 点 的 污 染 物 浓 度 在 任 何 1 小 时 的 平 均 值 不 得 超 过 的 限 值 。
+
+3.7 污 染 源
+
+指 排 放 大 气 污 染 物 的 设 施 或 指 排 放 大 气 污 染 物 的 建 筑 构 造 ( 如 车 间 等 ) 。
+
+3.8 单 位 周 界
+
+|
+
+指 单 位 与 外 界 环 境 接 界 的 边 界 。 通 常 应 依 据 法 定 手 续 确 定 边 界 ; 若 无 法 定 手 续 , 则 按 目 前 的 实 际 边 界 确 定 。
+
+3. 9 无 组 织 排 放 源
+
+.
+
+指 设 置 于 霾 天 环 境 中 具 有 无 组 织 排 放 的 设 施 , 或 指 具 有 无 组 织 排 放 的 建 筑 构 造 ( 如 车 间 、 工 栅 等 ) 。 3.10 “ 排 气 筒 高 度
+
+指 自 排 气 筒 ( 或 其 主 体 建 筑 构 造 ) 所 在 的 地 平 面 至 排 气 简 出 口 计 的 高 度 。
+-----------------------------------
+4 指 标 体 系
+
+本 标 准 设 置 下 列 三 项 指 标 ;
+
+4. 1 通 过 排 气 筒 排 放 的 污 染 物 最 高 允 许 排 放 浓 度
+
+。
+
+4. 2 通 过 排 气 简 排 放 的 污 染 物 , 按 排 气 筒 高 度 规 定 的 最 高 允 许 排 放 速 率 。
+
+任 何 一 个 排 气 筒 必 须 同 时 遵 守 上 述 两 项 指 标 , 超 过 其 中 任 何 一 项 均 为 超 标 排 放 。
+
+4. 3 以 无 组 织 方 式 排 放 的 污 染 物 , 规 定 无 组 织 排 放 的 监 控 点 及 相 应 的 监 控 浓 度 限 值 。 该 指 标 按 照 本 标 准 第 9. 2 条 的 规 定 执 行 。
+-----------------------------------
+5 排 放 速 率 标 准 分 级
+
+本 标 准 规 定 的 最 高 允 许 排 放 速 率 , 现 有 污 染 源 分 为 一 、 二 、 三 级 , 新 污 染 源 分 为 二 、 三 级 , 按 污 染 源 所 在 的 环 境 空 气 质 量 功 能 区 类 别 , 执 行 相 应 级 别 的 排 放 速 率 标 准 , 即 ;
+
+.
+
+位 于 一 类 区 的 污 染 源 执 行 一 级 标 准 ( 一 类 区 禁 止 新 、 扩 建 污 染 源 , 一 类 区 现 有 污 染 源 改 建 时 执 行 现 有 污 染 源 的 一 级 标 准 ) ;
+
+位 于 二 类 区 的 污 染 源 执 行 二 级 标 准 ;
+
+位 于 三 类 区 的 污 染 源 执 行 三 级 标 准 。
+
+2。
+-----------------------------------
+6 标 准 值
+
+6. 1 1997 年 1 月 1 日 前 设 立 的 污 染 源 ( 以 下 简 称 为 现 有 污 染 源 ) 执 行 表 1 所 列 标 准 值 。
+
+6.2 1997 年 1 月 1 日 起 设 立 ( 包 括 新 建 、 扩 建 、 改 建 ) 的 污 染 源 ( 以 下 简 称 为 新 污 染 源 ) 执 行 表 2 所 列 标 准 值 。 '
+
+6. 3 按 下 列 规 定 判 断 污 染 源 的 设 立 日 期 ,
+
+6. 3. 1 一 般 情 况 下 应 以 建 设 项 目 环 境 影 响 报 告 书 ( 表 ) 批 准 日 期 作 为 其 设 立 日 期 。
+
+6. 3. 2 未 经 环 境 保 护 行 政 主 管 部 门 审 批 设 立 的 污 染 源 , 应 按 补 做 的 环 境 影 响 报 告 书 ( 表 ) 批 准 日 期 作 为 其 设 立 日 期 。 |
+
+7 其 它 规 定
+
+7. 1 排 气 筒 高 度 除 须 遵 守 表 列 排 放 速 率 标 准 值 外 , 还 应 高 出 周 围 200m 半 径 范 围 的 建 筑 5m 以 上 , 不 能 达 到 该 要 求 的 排 气 简 , 应 按 其 高 度 对 应 的 表 列 排 放 速 率 标 准 值 严 格 505% 执 行 。
+-----------------------------------
+7. 2 两 个 排 放 相 同 污 染 物 ( 不 论 其 是 否 由 同 一 生 产 工 艺 过 程 产 生 ) 的 排 气 简 , 若 其 距 离 小 于 其 几 何 高 度 之 和 , 应 合 并 视 为 一 根 等 效 排 气 简 。 若 有 三 根 以 上 的 近 距 排 气 筒 , 丝 排 放 同 一 种 污 染 物 时 , 应 以 前 两 根 的 等 效 排 气 筒 , 依 次 与 第 三 、 四 根 排 气 筒 取 等 效 值 。 等 效 排 气 简 的 有 关 参 数 计 算 方 法 见 附 录 A。
+
+7.3 若 某 排 气 筒 的 高 度 处 于 本 标 准 列 出 的 两 个 值 之 间 , 其 执 行 的 最 高 允 许 排 放 速 率 以 内 插 法 计 算 , 内 插 法 的计算式见本标准附录B;当某芸曰丨悖气「】古萼j白含I一I高一灭〕谱熹叁瑟吏于亘艺'J、于ZI叉才穸云7'圭歹U出的最大或最小值时，以外摧法计算其最 高 允 许 排 放 速 率 , 外 推 法 计 算 式 见 本 标 准 附 录 B。
+
+7.4 新 污 染 源 的 排 气 筒 一 般 不 应 低 于 15m , 若 树 新 污 染 源 的 排 气 筒 必 须 低 于 15m 时 , 其 排 放 速 率 标 准 值 按 7. 3 的 外 推 计 算 结 果 再 严 格 505% 执 行 。
+-----------------------------------
+7. 5 新 污 染 源 的 无 组 织 排 放 应 从 严 控 制 , 一 般 情 况 下 不 应 有 无 组 织 排 放 存 在 , 无 法 避 免 的 无 组 织 排 放 应 达 到 表 2 规 定 的 标 准 值 。
+
+7.6 工 业 生 产 尾 气 确 需 燃 烧 排 放 的 , 其 烟 气 黑 度 不 得 超 过 林 格 曼 1 级 。
+
+8 监 测
+
+8.1 _ 布 点
+
+8. 1.1 排 气 筒 中 颗 粒 物 或 气 态 污 染 物 监 测 的 采 样 点 数 目 及 采 样 点 位 置 的 设 置 , 按 GB/T 16157-_1996 行 。
+
+8. 1. 2 无 组 织 排 放 监 测 的 采 样 点 ( 即 监 控 点 ) 数 目 和 采 样 点 位 置 的 设 置 方 法 , 详 见 本 标 准 附 录 C。, 8. 2 采 样 时 间 和 频 次
+
+本 标 准 规 定 的 三 项 指 标 , 均 指 任 何
+
+2.1 排 气 简 中 废 气 的 采 样
+
+8.
+
+小 时 平 均 值 不 得 超 过 的 限 值 , 故 在 采 样 时 应 做 到 ,
+
+以 达 续 1 小 时 的 采 样 获 取 平 均 值 ;
+-----------------------------------
+或 在 1 小 时 内 , 以 等 时 间 间 隔 采 集 4 个 样 品 , 并 计 平 均 值 。
+
+8. 2.2 无 组 织 排 放 监 控 点 的 采 样
+
+无 组 织 排 放 监 控 点 和 参 照 点 监 测 的 采 样 , 一 般 采 用 连 续 1 小 时 采 样 计 平 均 值 ;
+
+若 浓 度 偏 低 , 需 要 时 可 适 当 延 长 采 样 时 间 ;
+-----------------------------------
+〕『r壹釜〕\才〔斤方簪臼乙言灵肇{…壹jz文三壁′言」一，仅需乒目兰E」宦日曰L丨`丨言J采宴逞样品时，应实行等时间间隔采祥，采集〈里个样F亨l茎'i十平土竺蜇{鸣亘【】
+
+8. 2. 3 特 殊 情 况 下 的 采 样 时 间 和 频 次
+
+.
+
+刁「`聋某鄙荨}三气筒的量茸祥叉宣j乙〉羞7间断性排放，排放时间小于1小时，应在排放时段内实行连续采样，或在茎…!归〕萱夕〔日习L段 内 以 等 时 间 间 隔 采 集 2 一 4 个 样 品 , 并 计 平 均 值 ;
+
+若 树 排 气 筒 的 排 放 为 间 断 性 排 放 , 排 放 时 间 大 于 1 小 时 , 则 应 在 排 放 时 段 内 按 8. 2. 1 的 要 求 采 样 ;
+
+3
+
+9
+-----------------------------------
+执
+
+当 进 行 污 染 事 故 排 放 监 测 时 , 按 需 要 设 置 的 采 样 时 间 和 采 样 频 次 , 不 受 上 述 要 求 限 制
+
+建 设 项 目 环 境 保 护 设 施 竣 工 验 收 监 测 的 采 样 时 间 和 频 次 , 按 国 家 环 境 保 护 局 制 定 的 建 设 项 目 环 境 保 护 设 施 竣 工 验 收 监 测 办 法 执 行 。
+
+8. 3 监 测 工 况 要 求
+
+8. 3.1 在 对 污 染 源 的 日 常 监 督 性 监 测 中 , 采 样 期 间 的 工 况 应 与 当 时 的 运 行 工 况 相 同 , 排 污 单 位 的 人 员 和 实 施 监 测 的 人 员 都 不 应 任 意 改 变 当 时 的 运 行 工 况 。
+
+8. 3. 2 建 设 项 目 环 境 保 护 设 施 竣 工 验 收 监 测 的 工 况 要 求 按 国 家 环 境 保 护 局 制 定 的 建 设 项 目 环 境 保 护 设 施 竣 工 验 收 监 测 办 法 执 行 。
+
+8.4 采 样 方 法 和 分 析 方 法
+
+8.4. | 污 染 物 的 分 析 方 法 按 国 家 环 境 保 护 局 规 定 执 行 。
+-----------------------------------
+8.4. 2 污 染 物 的 采 样 方 法 按 GB/T 16157 一 1996 和 国 家 环 境 保 护 局 规 定 的 分 析 方 法 有 关 部 分 执 行
+
+8. 5 排 气 量 的 测 定
+
+排 气 量 的 测 定 应 与 排 放 浓 度 的 采 样 监 测 同 步 进 行 , 排 气 量 的 测 定 方 法 拴 GB/T 16157 一 1996 执 行 。
+
+9 标 准 实 施
+
+9.1 位 于 国 务 院 批 准 划 定 的 酸 雨 控 制 区 和 二 氧 化 硫 污 染 控 制 区 的 污 染 源 , 其 二 氧 化 硫 排 放 除 执 行 本 标 准 外 , 还 应 执 行 总 量 控 制 标 准 。
+
+9.2 本 标 准 中 无 组 织 排 放 监 控 浓 度 限 值 , 由 省 、 自 治 区 、 直 辖 市 人 民 政 府 环 境 保 护 行 政 主 管 部 门 决 定 是 否 在 本 地 区 实 施 , 并 报 国 务 院 环 境 保 护 行 政 主 管 部 门 备 案 。
+
+9. 3 本 标 准 由 县 级 以 上 人 民 政 府 环 境 保 护 行 政 主 管 部 门 负 责 监 督 实 施 。
+-----------------------------------
+。
+
+|
+
+熹 【 熹 … 】 戛 卞 重 l
+
+娆
+
+GB 16297 一 1996
+
+表 1 现 有 污 染 源 大 气 污 染 物 排 放 限 值
+<table><thead><th rowspan="2">污 梧 物</th><th rowspan="2">国 洁 最 高 允 诊 排 放 浓 度 mg /me</th><th colspan="4">最 高 允 许 排 放 速 率 ,kg/h</th><th colspan="2">无 组 织 排 放 监 控 浓 度 限 值</th></thead><thead><th></th><th></th><th>排 气 筒 高 度 园</th><th>| 一 级 园 团 明</th><th>| 二 级 医 亚 日</th><th>| 三 级 医 团</th><th>监 控 点 团 | 园 园</th><th>浓 度 mg/ms 东</th></thead><tr><td></td><td></td><td>15</td><td>1.6</td><td>3. 0</td><td>一 . 1</td><td rowspan="6">| 无 组 织 排 放 | 源 上 风 向 设 参 照 点 , 下 风 | 向 设 监 控 炉 “</td><td rowspan="6">| 0.50 | ( 监 控 点 与 参 | 照 点 浓 度 差 | 值 〉</td></tr><tr><td>一 一 氧 化</td><td>1200 ( 疏 , 二 氧 化 硫 , 疏 酸 和 其 | 它 舍 疏 化 合 物 生 产 ) 700</td><td>20 30 40 50 60 70</td><td>2. 6 8.8 15 23 33 47</td><td>5, 1 17 30 45 64 91</td><td>7.7 26 45 69 98 140</td><td></td><td></td></tr><tr><td></td><td rowspan="4">| ( 硫 , 二 氧 化 疏 、 硫 酸 和 其 它 吴 硫 化 合 物 使 用 ) _&gt;</td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>磐</td><td></td><td>| 80</td><td>63</td><td>120</td><td>| 190</td><td></td><td></td></tr><tr><td></td><td></td><td>90</td><td>82</td><td>160</td><td>| a40</td><td></td><td></td></tr><tr><td></td><td></td><td>100</td><td>00</td><td>200</td><td>310</td><td></td><td></td></tr><tr><td>化 物</td><td>420 ( 硝 酸 使 用 和 其 它 )</td><td>60 70 80 90 100</td><td>9.9 1 19 24 31</td><td>19 27 37 4 61</td><td>29 41 56 72 92</td><td>| 参 照 点 , 下 风 向 设 监 控 点</td><td>| 照 炉 浓 度 差 值 》</td></tr><tr><td rowspan="2">颗 粥</td><td>22 ( 碣 黑 小 、 染 料 尘 )</td><td>15 20 30 40</td><td>)'…′」罐 一 排</td><td>0, 60 1.0 4.0 6. 8</td><td>0. 87 | 1.5 | 5.9 10</td><td>| 周 界 外 浓 度 | 最 高 点 ,。 |</td><td>肉 眼 不 可 见</td></tr><tr><td></td><td>80 ( 玻 璃 棉 尘 、 石 英 粉 尘 、 矿 渣 棉 尘 )</td><td>15 20 30 40</td><td>辽 一 排</td><td>2.2 3.7 14 25</td><td>| 3a.1 5.3 21 37</td><td>| 无 组 织 排 放 | 源 上 凤 向 设 | 参 照 点 , 下 风 | 向 设 监 控 点 |</td><td>2.0 | ( 监 控 点 与 参 | 照 点 浓 度 袱 值 )</td></tr><tr><td>物</td><td>150 ( 其 它 )</td><td>15 20 30 40 50 60</td><td>2 3.5 14 24 36 51</td><td>一 1 | 6.9 27 46 70 100</td><td>5. 9 10 40 69 110 150</td><td>| 无 组 织 排 放 源 上 风 向 设 参 照 点 , 下 风 向 设 监 控 点</td><td>5.0 | ( 监 控 点 与 参 | 照 点 浓 度 差 值 》</td></tr></table>
+-----------------------------------
+一轰蔷兰乏涯』亡〕京仝歹「了二组叁〔王垂…丨歹三〕渲j〔江言更上风向 2 一 50m 范 围 内 设 参 考 点 , 排 放 源 下 风 向 2 一 50m 范 围 内 设 监 控 点 , 详 见 本 标 准 附 录 C。 下 同 5
+-----------------------------------
+关
+
+关 周 界 外 浓 度 最 高 点 一 般 应 设 于 排 放 源 下 风 向 的 单 位 周 界 外 10m 范 围 内 。 如预计无组织排放的最大落地浓度歧越出 10m 范 围 , 可 将 监 控 点 移 至 该 预 计 浓 度 最 高 点 , 详 见 附 录 C。 下 同 。
+
+* % # 妞 指 含 游 离 二 氧 化 硅 10% 以 上 的 各 种 尘 。
+
+GB 16297 一 1996
+<table><thead><th rowspan="2"></th><th rowspan="2"></th><th colspan="4">最 高 允 许 排 放 速 率 ,kg/h</th><th colspan="2">无 组 织 排 放 监 控 浓 度 限 值</th></thead><thead><th></th><th></th><th></th><th></th><th></th><th></th><th>监 控 点</th><th>浓 度 mg/m3</th></thead><tr><td></td><td></td><td></td><td></td><td></td><td></td><td>周 界 外 浓 度 最 高 点</td><td>“</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td>命 界 外 准 度 民 朐</td><td>| .oor5</td></tr><tr><td>疏</td><td>1000 ( 火 炸 药 厂 )</td><td>15 20 30</td><td></td><td>1.8 3.1 10</td><td>2.8 4.6 16</td><td rowspan="3">周 界 外 浓 度 最 高 点</td><td rowspan="3">1.5</td></tr><tr><td>酸 雾</td><td>| 70 | ( 其 它 )</td><td>40 50 60 70</td><td></td><td>18 27 39 55</td><td>27 41 59 83</td><td></td><td></td></tr><tr><td></td><td>1 100</td><td>80 15</td><td></td><td>74 0.12</td><td>110 0.18</td><td></td><td></td></tr><tr><td>氟 李 物</td><td>( 普 锈 工 业 ) | ( 其 它 )</td><td>20 30 40 60 70 80</td><td>|</td><td>0. 20 0.69 1.2 一 2.6 3.6 4. 9</td><td>0.31 1. 0 1.8 一 日 3.9 5.5 7.5</td><td>| 无 组 织 排 放 源 | 上 风 向 设 参 照 伟 控 点</td><td>20Lg/m 随 0</td></tr><tr><td>, 氮</td><td>85</td><td>25 30 40 50</td><td>禅</td><td>0.60 1.0 3.4 5.9</td><td>0. 90 1.5 5.2 9.0</td><td>弓】E]夏旱茎′`…〔薯董更更〕旦′曼 最 高</td><td>0.50</td></tr></table>
+-----------------------------------
+心 一
+
+70
+
+13
+
+20
+
+80
+
+18
+
+28
+
+* “ 排 放 氰 气 的 排 气 简 不 得 低 于 25m。
+
+续 表 1
+
+1 `
+
+|
+
+吴 吴
+
+颜
+
+【 1
+
+个
+
+GB 16297 一 1996
+<table><thead><th rowspan="2">序 号</th><th rowspan="2">江 染 物</th><th rowspan="2">最 高 允 诊 排 放 浇 度 mg/ms</th><th colspan="4">最 高 允 许 排 放 速 率 ,kg/h</th><th colspan="2">无 组 织 排 放 监 控 浓 度 限 值</th></thead><thead><th></th><th></th><th></th><th></th><th></th><th></th><th></th><th>监 控 点</th><th>浓 度 mg/ms</th></thead><tr><td>9</td><td>(宕丕喜芝 琵 吾 物</td><td>0</td><td>15 20 30 40 50 60 70 80 90 100</td><td>排</td><td>0.005 0.007 0.031 0.055 0.085 0.12 0.17 0. 23 0. 31 0. 39</td><td>| 0.007 | 0.011 | 0.048 | 0.083 | 0.13 0.18 0.26 0.35 0.47 0. 60</td><td>外 ′司亘_I菖'〕量亘 壹 ′</td><td>河 幽</td></tr><tr><td>用</td><td>江 熹冒墓尘量 呆 物</td><td>0 o15</td><td>15 20 30 40 50 60</td><td>狼 “ 排</td><td>1.8X10 一 1X10 一 【10Xx1i0rs |18X10 “ 27X10 一 39X10 一</td><td>2.8X10 一 4 6X10 | 16X10rs| | 27X10““| | 如 X10 一 | 59X10 卜</td><td>周 界 外 浓 度 最 高 点</td><td>o.oo15</td></tr><tr><td>i</td><td>《!苔蓼冒 载 重垦_^乙 物</td><td>1 0</td><td>40 50 60 70 80 15</td><td>林 一 排</td><td>0. 59 0. 91 1.3 1.8 2.5 1.3X10 一</td><td>0. 90 1.4 2.0 2.8 3.7 |2.0X10 一</td><td>| 周 界 外 浓 度 最 高 点</td><td>o. 050</td></tr><tr><td rowspan="2"></td><td rowspan="2">'置皇 物</td><td></td><td>| 60</td><td rowspan="2">, 排</td><td>27X10 一</td><td>| 如 X10 一</td><td rowspan="2">“ 高 点 |</td><td rowspan="2"></td></tr><tr><td></td><td></td><td></td><td>70</td><td></td><td>39X103</td><td>158Xlor</td><td></td><td></td></tr></table>
+-----------------------------------
+.
+
+续
+
+7
+
+.
+<table><thead><th rowspan="2">序 号</th><th rowspan="2">江 ; 梳 物</th><th rowspan="2">最 高 允 许 高 允 1 排 放 浓 度 mg/m3</th><th colspan="4">最 高 允 许 排 放 速 率 ,kg/h</th><th colspan="2">无 组 织 排 放 监 控 浇 度 限 值</th></thead><thead><th></th><th></th><th></th><th>排 气 简 高 度 Tn</th><th>| 一 级</th><th>| 二 级</th><th>| 三 级</th><th>监 控 点</th><th>浓 度 mg/m3</th></thead><tr><td>1</td><td>妻 轼 化 …鲁荡</td><td>5.0 ′</td><td>15 20 30 40 50 60 70 80</td><td></td><td>018 0.31 1.0 1.8 2.7 3.9 5.5 7.4</td><td>| 5 28 0.46 1.6 2.7 4.1 5. 9 8.2 11</td><td>| 周 界 外 浓 度 最 高 点</td><td>0.050</td></tr><tr><td>14</td><td>羞i菩丕量 其 伟 罚</td><td>10</td><td>_ 15 20 30 40 50 60 70 80</td><td></td><td>0.36 0.61 2.1 3.5 5.4 7.7 11 15</td><td>0.55 0. 93 3.1 5.4 8.2 12 17 22 .</td><td>, 周 界 外 浓 度 最 高 点</td><td>0.30</td></tr><tr><td>15</td><td>闻 万</td><td>17</td><td>15 20 30 40</td><td></td><td>0.60 1.0 3. 3 6.0</td><td>| 0.90 1.5 5.2 9.0</td><td>| 周 界 外 浓 度 最 高 点</td><td>0.50</td></tr><tr><td>16</td><td>用</td><td>60</td><td>15 20 30</td><td></td><td>3.6 6.1 21</td><td>5.5 9.3 31</td><td>| 周 界 外 浓 度 高 点</td><td>3.0 '</td></tr><tr><td></td><td>阔 中</td><td></td><td>40 15</td><td></td><td>36 1.2</td><td>54 1.8</td><td>最</td><td></td></tr><tr><td>17</td><td>三 睾</td><td>90</td><td>20 30 40</td><td></td><td>2.0 6.9 12</td><td>3.1 10 18</td><td>| 周 界 外 浓 度 团 最 高 点</td><td>1.5</td></tr><tr><td>18</td><td>酚 类</td><td>115</td><td>15 20 30 40 50 60</td><td></td><td>0.12 0. 20 0. 68 1.2 1.8 2.6</td><td>] 0.18 0, 31 1.0 1.8 2.7 3.9</td><td colspan="2">周 界 外 浓 度 0.10 最 高 点</td></tr><tr><td>19</td><td>甲</td><td>30</td><td>15 20 30 40</td><td>禁</td><td>0.30 0.51 1.7 3. 0</td><td>| 0.46 0.77 2.6 4. 5</td><td>| 周 界 外 浓 度 最 高 点</td><td>o. 25 '</td></tr></table>
+-----------------------------------
+20
+
+150
+
+续 表 1
+
+0. 050
+<table><thead><th rowspan="2">序 号</th><th rowspan="2">污 染 物</th><th rowspan="2">咤 最 高 允 许 排 放 浓 度 mg/ms</th><th colspan="4">最 高 允 许 排 放 速 率 ,kg/h</th><th colspan="2">无 组 织 排 放 监 控 浓 度 限 值</th></thead><thead><th></th><th></th><th></th><th>排 气 简 高 度 Tn</th><th>| 一 级</th><th>二 级</th><th>三 级</th><th>监 控 点</th><th>浓 度 mg/ms</th></thead><tr><td>21</td><td>丙 烯 腑</td><td>26</td><td>15 20 30 40 50 60</td><td></td><td>0.91 1.5 5.1 8.9 14 19</td><td>1.4 2.3 7.8 13 21 29</td><td>周 界 外 浓 度 最 高 点 |</td><td>0.75</td></tr><tr><td>22</td><td>丙 制 醛</td><td>20</td><td></td><td>禁 排</td><td>0. 61 1.0 3.4 5. 9 9.1 13</td><td>0. 92 1.5 5.2 9. 0 14 20</td><td>周 界 外 浓 度 最 高 点</td><td>“ 砂</td></tr><tr><td>23</td><td>氰 * 化 氨</td><td>2.3</td><td></td><td>禁 “ 排</td><td>0.18</td><td>0.28 0.46 1.6 2.7 止 1 5.9 8.3</td><td>【 , 三′…旱J茎墅7…′_二警二重更更迸壹 闰 兰</td><td>0.030</td></tr><tr><td>24</td><td>甲 醇</td><td>220</td><td></td><td>旋 一 排</td><td></td><td>9.2 15 52 00 140 200</td><td>周 界 外 浓 度 最 高 点</td><td>15</td></tr><tr><td>25</td><td>苯 胶 类</td><td>25</td><td></td><td>禁 “ 排</td><td></td><td>0. 92 1.5 5.2 9.0 14 20</td><td>周 界 外 浓 度 最 高 点 ′</td><td>0.50</td></tr><tr><td>26</td><td>爹奏〈 闻 械 类</td><td>85</td><td></td><td>翼头丨邑三!&lt;霍 排</td><td></td><td>0. 92 1.5 口 4 凶 12 17 23</td><td>周 界 外 浓 度 司 界 外 3 最 高 点</td><td>0.50</td></tr></table>
+-----------------------------------
+32
+
+41
+
+52
+
+% “ 排 放 氰 化 氡 的 排 气 简 不 得 低 于 25m。
+
+绮 表 1
+<table><thead><th rowspan="2">序 号</th><th rowspan="2">污 染 物</th><th rowspan="2"></th><th colspan="4">最 高 允 许 排 放 速 率 ,kg/h</th><th colspan="2">无 组 织 排 放 监 控 浓 度 限 值</th></thead><thead><th></th><th></th><th></th><th>排 气 简 高 度 I</th><th>| 一 级</th><th>二 级</th><th>妾_ 三 级</th><th>监 控 点</th><th>浓 度 mg/my</th></thead><tr><td>2</td><td>硝 基 苯 类</td><td>20</td><td>15“ 20 30 ~40 50 60</td><td></td><td>0.060 0. 10 0. 34 0. 59 0. 91 1.3</td><td>0. 090 0.15 0. 52 0.90 1.4 2.0</td><td>周 界 外 浓 度 最 高 点</td><td>0. 050 '</td></tr><tr><td>2</td><td>氯 - 烯</td><td>65</td><td>15 20 30 40 50 60</td><td></td><td>0. 91 1.5 5.0 8. 9 14 19</td><td>1.4 2.3 7.8 ‖ 13 21 29</td><td>周 界 外 浇 度 心 最 高 点</td><td>0.75</td></tr><tr><td>29</td><td>苯 并 「 [al 芘</td><td>0. 50x10 〈叠′贤j胃重 裁 林 制 品 生 亦 和 加 工 ) 广</td><td>15 20 30 40 50 60</td><td></td><td>0. 06X10 0.10X10 0.34X10 0. 0. 90X10 1.3X10 一</td><td>一 |0.09X10 一 一 |0.15X10 一 一 |0. 51X10-| 59103|0.89X10-| 一 | 1.4《X10 一 | 2.0X10 一</td><td>周 界 外 浓 度 “ 最 高 点</td><td>0.01 Kg/ms</td></tr><tr><td>2</td><td>光 “ 气</td><td>. 5.0</td><td>25 30 40 50</td><td></td><td>0. 12 0. 20 0. 69 1.2</td><td>0.18 0.31 1.0 1.8</td><td>周 界 外 浓 度 心 最 高 点</td><td>.10 01</td></tr><tr><td rowspan="3">a</td><td></td><td rowspan="3">沥 股 烟</td><td></td><td>280 ( 吹 制 沥 青 》</td><td>15 20 30</td><td></td><td>0. 22 0. 36 1.6</td><td>0. 34 0.55 2.4</td><td colspan="2" rowspan="3">' 生 产 设 备 不 得 有 明 显 无 组 织 排 放 存 在</td><td colspan="2"></td></tr><tr><td></td><td></td><td>80 ( 熔 炼 、 浸 涂 )</td><td>40 50</td><td></td><td>2.8 4.3</td><td>4.2 6.6</td><td colspan="2"></td></tr><tr><td>150 ( 建 筑 搅 拌 )</td><td>60 70 80</td><td></td><td>5.9 8.7 12</td><td>9.0 13 18</td></tr><tr><td>江</td><td>石 棉 止</td><td>2 根 ( 纤 维 )/ems 根 ( 纤 维 )/cm 或 20 mg/ms</td><td>15 20 肖 40 50</td><td>禁 一 排</td><td>0. 65 1.1 《 7.2 11</td><td>. 98 1.7 64 11 17</td><td colspan="2">『 生 产 设 备 不 得 有 明 显 的 无 组 织 排 放 存 在 0</td></tr></table>
+-----------------------------------
+150
+
+18
+
+33
+
+( 使 用 溶 剂 汽 油 或 其 他 混 合 烃 类 物 质 )
+
+30
+
+100
+
+170
+
+周 界 外 浓 度 最 高 点
+
+排 放 光 气 的 排 气 简 不 得 低 于 25m。
+
+g ]_O 2
+-----------------------------------
+续 表 1
+
+5.0 '
+
+,
+
+GB 16297 一 1996
+<table><thead><th rowspan="2"></th><th rowspan="2"></th><th colspan="4">最 高 允 许 排 放 速 率 ,kg/h</th><th colspan="2">无 组 织 排 放 监 控 浓 度 限 值</th></thead><thead><th></th><th></th><th></th><th>“</th><th>一 级</th><th>| 三 级</th><th>| 监 掂 点</th><th>浓 度 mg/ms</th></thead><tr><td rowspan="6">, 一 氧 化</td><td></td><td></td><td></td><td>2.6</td><td>3.5</td><td rowspan="9">| 周 界 外 浓 度 最 高 点 “</td><td rowspan="9">a '</td></tr><tr><td></td><td>960</td><td></td><td></td><td>4. 3</td><td>6.6</td><td></td><td></td></tr><tr><td></td><td>| G 一 氧 化 疏 \ 疏 酸 和 其 它</td><td></td><td></td><td>15</td><td>22</td><td></td><td></td></tr><tr><td></td><td>| 吴 硫 化 合 物 生 产 )</td><td></td><td></td><td>25</td><td>38</td><td></td><td></td></tr><tr><td rowspan="6">硫</td><td></td><td rowspan="6">550 ( 硫 , 二 氧 化 硫 \ 硫 蜂 和 其 它 含 硫 化 合 物 使 用 )</td><td></td><td></td><td>39</td><td>58</td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td>55</td><td>83</td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td>77</td><td>120</td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td>110</td><td>160</td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td>130</td><td>200</td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td>170</td><td>270</td><td rowspan="11"></td><td></td></tr><tr><td rowspan="10">氮 氧 化</td><td></td><td></td><td></td><td>0. 77</td><td>1.2</td><td></td><td></td></tr><tr><td></td><td rowspan="9">1400 | ( 硝 酸 , 氮 肥 和 火 炸 药 生 产 )</td><td></td><td></td><td>工 3</td><td>2. 0</td><td></td><td rowspan="13">余 ′</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td>么 生</td><td>6.6</td><td rowspan="11">| 周 界 外 浇 度 最 高 点</td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td>7</td><td>1</td><td></td><td></td><td></td></tr><tr><td rowspan="8">物</td><td></td><td rowspan="8">240 闻 ( 硝 酸 使 用 和 其 它 )</td><td></td><td></td><td></td><td>12</td><td>18</td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td>16</td><td>25</td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td>23</td><td>35</td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td>31</td><td>47</td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td>4</td><td>al</td><td></td><td></td></tr><tr><td rowspan="6"></td><td></td><td></td><td></td><td></td><td>52</td><td>78</td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td>0. 51</td><td>0. 74</td><td rowspan="4">周 界 外 浓 度 最 高 点 ‖</td><td rowspan="4">向 见 肉 眼 不 可 见</td></tr><tr><td></td><td>18</td><td></td><td></td><td>0, 85</td><td>1.3</td><td></td><td></td></tr><tr><td></td><td>( 碣 黑 尘 , 染 料 生 )</td><td></td><td></td><td>3.4</td><td>5.0</td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td>5.8</td><td>8.5</td><td></td><td></td></tr><tr><td></td><td rowspan="4">60 ( 玲 璃 棉 尘 、 石 英 粉 尘 、 棉</td><td></td><td></td><td></td><td>工 9</td><td>2.6</td><td rowspan="4">| 周 界 外 浓 度 最 高 点</td><td></td><td rowspan="4">1 '</td><td></td></tr><tr><td>颗</td><td></td><td></td><td></td><td>3.1</td><td>. 5</td><td></td><td></td></tr><tr><td>, 粗</td><td></td><td></td><td>12</td><td>18</td></tr><tr><td></td><td rowspan="5">矿 渣 尘 ) 120 ( 其 它 》</td><td></td><td></td><td></td><td>21</td><td>31</td><td></td><td></td></tr><tr><td rowspan="4">物</td><td></td><td>15</td><td></td><td>3. 5</td><td>5. 0</td><td rowspan="4">周 界 外 浓 度 最 高 点</td><td rowspan="4">1.0 '</td></tr><tr><td></td><td></td><td>20</td><td></td><td>5, 9</td><td>8.5</td><td></td><td></td></tr><tr><td></td><td></td><td>30</td><td></td><td>23</td><td>34</td><td></td><td></td></tr><tr><td></td><td></td><td>40</td><td></td><td>39</t
+d><td>59</td><td></td><td></td></tr></table>
+-----------------------------------
+* “ 周 界 外 浓 度 最 高 点 一 般 应 设 置 於 无 组 织 排 放 源 下 风 向 的 单 位 周 界 外 10m 范 围 内 , 若 预 计 无 组 织 排 放 的 最 大 落 地 浓 度 点 越 出 10m 范 围 , 可 将 监 控 点 移 至 该 预 计 浓 度 最 高 点 , 详 见 附 录 C。 下 同 。
+
+% % “ 均 指 含 游 离 二 氧 化 硅 超 过 10% 以 上 的 各 种 尘 。
+-----------------------------------
+熹
+
+|
+
+| \ |
+
+GB 16297 一 1996
+<table><thead><th rowspan="2">污 染 物 ,</th><th rowspan="2">最 高 允 许 排 放 浓 度 mg/ms</th><th colspan="4">最 高 允 许 排 放 速 率 ,kg/h</th><th colspan="2">无 组 织 排 放 监 控 浓 度 限 值</th></thead><thead><th></th><th></th><th colspan="2"></th><th></th><th></th><th>T 监 控 点</th><th>浓 度 mg/ms</th></thead><tr><td rowspan="8">氯 . 申</td><td>,</td><td colspan="3" rowspan="2">15 0. 26 20 0. 43</td><td>0.39</td><td rowspan="8">| 最 高 点</td><td rowspan="8"></td></tr><tr><td></td><td></td><td colspan="3"></td><td>0.65</td><td></td><td></td></tr><tr><td></td><td></td><td>30</td><td></td><td>1.4</td><td>2.2</td><td></td><td></td></tr><tr><td></td><td></td><td>40</td><td></td><td>2.6</td><td>3.8</td><td></td><td></td></tr><tr><td></td><td></td><td>50</td><td></td><td>3.8</td><td>5.9</td><td></td><td></td></tr><tr><td></td><td></td><td>60</td><td></td><td>5.4</td><td>8.3</td><td></td><td></td></tr><tr><td></td><td></td><td>70</td><td></td><td>7.7</td><td>12</td><td></td><td></td></tr><tr><td rowspan="9">铧 酸 雷</td><td></td><td></td><td>80</td><td></td><td>10</td><td>16</td><td></td><td></td></tr><tr><td></td><td rowspan="8">0 070</td><td></td><td>15</td><td></td><td>0. 008</td><td>0.012</td><td rowspan="8">河 周 界 外 浓 度 最 高 点</td><td></td><td rowspan="8">0.0060</td><td></td></tr><tr><td></td><td></td><td colspan="2" rowspan="7">20 30 40 50 60</td><td colspan="2"></td><td>0. 013</td><td>0.020</td><td></td><td></td></tr><tr><td></td><td></td><td colspan="2"></td><td>0. 043</td><td>0.066</td><td></td><td></td></tr><tr><td></td><td></td><td colspan="2"></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td colspan="2"></td><td>0. 076</td><td>0.12</td><td></td><td></td></tr><tr><td></td><td></td><td colspan="2"></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td>0.12</td><td>0.18</td></tr><tr><td rowspan="10">硫 酸 雹</td><td></td><td></td><td colspan="2"></td><td>0.16</td><td>0.25</td><td></td><td></td></tr><tr><td></td><td rowspan="6">430 ( 火 炸 药 厂 )</td><td>15</td><td></td><td>1.5</td><td>2.4</td><td></td><td rowspan="10">1.2</td></tr><tr><td></td><td></td><td>20</td><td></td><td>2.6</td><td>3.9</td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td>30</td><td></td><td>8.8</td><td>13</td><td></td><td></td></tr><tr><td></td><td></td><td>40</td><td></td><td>15</td><td>23</td><td>周 界 外 浓 度</td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td>一</td><td></td></tr><tr><td></td><td></td><td>50</td><td></td><td>23</td><td>35</td><td>最 高 点</td><td></td></tr><tr><td></td><td>45,</td><td>60</td><td></td><td>33</td><td>50</td><td></td><td></td></tr><tr><td></td><td>( 其 它 )</td><td>70</td><td></td><td>46</td><td>70</td><td></td><td></td></tr><tr><td></td><td></td><td colspan="2" rowspan="3">80</td><td>63</td><td>95</td><td></td><td></td></tr><tr><td></td><td rowspan="5">90 ( 普 锈 工 业 )</td><td></td><td colspan="2" rowspan="2">15</td><td colspan="2"></td><td>0.10</td><td>0.15</td><td rowspan="10">周 界 外 浓 度 最 高 点</td><td></td><td></td></tr><tr><td rowspan="9">D 化 物</td><td></td><td></td><td colspan="2" rowspan="3">20 30 40</td><td colspan="2"></td><td colspan="2"></td><td>0.17</td><td>0.26</td><td></td><td rowspan="9">20 hg/ms</td><td></td></tr><tr><td></td><td></td><td colspan="2"></td><td>0. 59</td><td>0.88</td><td></td><td></td></tr><tr><td></td><td></td><td colspan="2"></td><td>1.0</td><td>1.5</td><td></td><td></td></tr><tr><td rowspan="5">9.0 ( 其 它 )</td><td>50</td><td></td><td>1.5</td><td>2.3</td></tr><tr><td></td><td></td><td>60</td><td></td><td>2.2</td><td>3.3</td><td></td><td></td></tr><tr><td></td><td></td><td>70</td><td></td><td>3.1</td><td>4.7</td><td></td><td></td></tr><tr><td></td><td></td><td>80</td><td></td><td>4.2</td><td>6.3</td><td></td><td></td></tr><tr><td></td><td></td><td>25</td><td></td><td>0.52</td><td>0.78</td><td></td><td></td></tr><tr><td></td><td></td><td>30</td><td></td><td>0.87</td><td>1.3</td><td></td><td></td></tr></table>
+-----------------------------------
+′
+
+氯
+
+40
+
+4.4
+
+8
+
+'
+
+65
+
+50
+
+7.6
+
+〕『言'『豪旱萱′`量?名吏 壹 最 高 点
+
+0. 40
+
+气
+
+60
+
+12
+
+70
+
+17
+
+80
+
+23
+
+* 排 放 氮 气 的 排 气 简 不 得 低 于 25m。
+
+,
+
+12。
+
+一
+
+| 1 园
+
+|
+-----------------------------------
+| 又
+
+|
+
+| | | | |
+
+“
+
+.晨 } | | |
+
+工
+
+, | 国 董 |
+
+GB 16297 一 1996
+<table><thead><th rowspan="2"></th><th rowspan="2"></th><th colspan="3">最 高 允 许 排 放 速 率 ,kg/h</th><th colspan="2">无 组 织 排 放 监 控 浓 度 限 值</th></thead><thead><th></th><th></th><th>排 气 高 度 随</th><th>| 二 级</th><th>三 级</th><th>监 控 点</th><th>浓 度 mg/ms</th></thead><tr><td></td><td></td><td>15</td><td>0.004</td><td>0. 006</td><td rowspan="10">周 界 外 浓 度 幼 最 高 点</td><td rowspan="10">0. 0060</td></tr><tr><td></td><td></td><td>20</td><td>0. 006</td><td>0. 009</td><td></td><td></td></tr><tr><td></td><td></td><td>30</td><td>0. 027</td><td>0. 041</td><td></td><td></td></tr><tr><td>′雇丕量</td><td></td><td>40</td><td>0. 047</td><td>0. 071</td><td></td><td></td></tr><tr><td>其</td><td></td><td>50</td><td>0. 072</td><td>0.11</td><td></td><td></td></tr><tr><td>化</td><td>0. 70</td><td>60</td><td>0.10</td><td>0.15</td><td></td><td></td></tr><tr><td>团</td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>牢</td><td></td><td>70</td><td>0.15</td><td>0. 22</td><td></td><td></td></tr><tr><td></td><td></td><td>80</td><td>0. 20</td><td>0.30</td><td></td><td></td></tr><tr><td></td><td></td><td>90</td><td>0. 26</td><td>0. 40</td><td></td><td></td></tr><tr><td></td><td></td><td>100</td><td>0. 33</td><td>0.51</td><td></td><td></td></tr><tr><td rowspan="7">噩 锭 花 化 物</td><td></td><td></td><td>15 20</td><td>1.5X10 一 2.6X10 一</td><td>| 2.4X10 一 | 3.9X10 一</td><td rowspan="7">| 周 界 外 浓 度 史 最 高 点 吾</td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td>30</td><td>7.8X10-3</td><td>| 13X10-3</td><td></td><td></td></tr><tr><td>0. 012</td><td></td><td></td><td></td><td>0. 0012</td></tr><tr><td></td><td></td><td>40</td><td>一 15X10</td><td>医 23X10</td><td></td><td></td></tr><tr><td></td><td></td><td>50</td><td>23X10 一</td><td>| 35X10 一</td><td></td><td></td></tr><tr><td></td><td></td><td>60</td><td>33X10-3</td><td>| 50X10 一</td><td></td><td></td></tr><tr><td rowspan="5">蒂蓼蕾 其 芸 化 牲</td><td>0. 85</td><td>15 20 30 40 50</td><td>0. 050 0. 090 0. 29 0. 50 u 77</td><td>0. 080 0.13 0. 44 0.77 . 1.2</td><td rowspan="5">周 界 外 浓 度 一 最 高 点</td><td rowspan="5">0. 040</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td>60 70 80</td><td>1.1 1.5 2.1</td><td>1.7 2.3 3.2</td><td></td><td></td></tr><tr><td></td><td rowspan="7">0.012</td><td></td><td></td><td></td><td></td><td></td></tr><tr><td rowspan="6">崔云薹昼 其 芗 化 口 物</td><td></td><td>15</td><td>1.1X10r3|</td><td>1.7X10 一</td><td rowspan="6">| 周 界 外 浇 度 唐 最 高 点</td><td rowspan="6">0. 0008</td></tr><tr><td></td><td></td><td>20</td><td>1.8X10 一</td><td>| 2.8X10 一</td><td></td><td></td></tr><tr><td></td><td></td><td rowspan="4">30 40 50 60</td><td>6.2X10 一</td><td>| 9.4X10 一</td><td></td><td></td></tr><tr><td></td><td></td><td></td><td>11X10-3</td><td>| 16X10-s</td><td></td><td></td></tr><tr><td></td><td></td><td></td><td>里 16X10 一</td><td>国 | 25X10</td><td></td><td></td></tr><tr><td></td><td></td><td></td><td>23X10 一</td><td>| 35X103</td><td></td><td></td></tr></table>
+-----------------------------------
+44X 10 一
+
+67 X 10 一
+
+续 表 2
+
+|
+
+鬓
+
+| 鸟 1
+
+` 〕 | |
+
+1
+
+GB 16297 一 1996
+<table><thead><th rowspan="2"></th><th rowspan="2">弯 净 诚</th><th rowspan="2">最 高 允 许 排 放 浓 度 mg/mes</th><th colspan="3">最 高 允 许 排 放 速 率 ,kg/h</th><th colspan="2">无 组 织 排 放 监 控 浓 度 限 值</th></thead><thead><th></th><th></th><th></th><th>排 气 简</th><th>| 二 级</th><th>| 三 级</th><th>监 控 点</th><th>派 度 mg/ms</th></thead><tr><td></td><td>鸿 中 宇 娄 汞 赘</td><td>4, 3</td><td></td><td></td><td>0. 24 0, 34 1. 3 2.3 3.5 5, 0 7. 0 10</td><td>周 界 外 浓 度 最 高 点</td><td>0, 040</td></tr><tr><td>14</td><td>莲 办 完 壮 汞 濑</td><td>8.5</td><td></td><td></td><td>0. 47 0. 79 2.7 4.6 7. 0 10 14</td><td>周 界 外 浓 度 最 高 点</td><td>0, 24</td></tr><tr><td></td><td></td><td>12</td><td></td><td></td><td>0. 80 1.3 土 4 7.6</td><td>周 界 外 浓 度 最 高 点</td><td>0. 40</td></tr><tr><td></td><td></td><td>40</td><td></td><td></td><td>4.7 7. 9 4《6</td><td>周 界 外 浓 度 最 高 点</td><td>2. 一</td></tr><tr><td></td><td>讹 诊 | 1</td><td>70</td><td></td><td></td><td>1.5 2.6 8. 8</td><td>周 界 外 浓 度 最 高 点</td><td>12</td></tr><tr><td></td><td></td><td>100</td><td></td><td></td><td>0. 15 0,26 0. 88 1.5 2. 3 3.3</td><td>周 界 外 浓 度 最 高 点</td><td>0. 080</td></tr></table>
+-----------------------------------
+0. 26
+
+0. 39
+
+19
+
+甲
+
+25
+
+0, 43
+
+1.4
+
+2.6
+
+0. 65
+
+2.2
+
+3,8
+
+| 周 界 外 浓 度 最 高 点
+
+醛
+
+3.8
+
+5.9
+
+5.4
+
+8. 3
+
+. 1乙基 .
+-----------------------------------
+续
+
+20.20
+
+气_'
+
+雯 | |
+
+!
+
+|
+
+〉
+
+熹
+
+GB 16297 一 1996
+<table><thead><th rowspan="2">序 予 导</th><th rowspan="2"></th><th rowspan="2"></th><th colspan="3">最 高 允 许 排 放 速 率 ,kg/h</th><th colspan="2">无 组 织 排 放 监 控 浓 度 限 值</th></thead><thead><th></th><th></th><th></th><th></th><th>T “ 二 级</th><th>三</th><th>监 控 点</th><th>浓 度 mg/ms</th></thead><tr><td rowspan="6">20 〈</td><td rowspan="6">乙 醛</td><td rowspan="6">125</td><td colspan="2" rowspan="2">0. 050 0.090</td><td>0. 080</td><td rowspan="6">周 界 外 浓 度 最 高 点</td><td rowspan="6">0. 040</td></tr><tr><td></td><td></td><td></td><td colspan="2"></td><td>0. 13</td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td>0. 29</td><td>0. 44</td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td>0.50</td><td>0.77</td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td>0.77</td><td>1.2</td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td>1.1</td><td>1.6</td><td></td><td></td></tr><tr><td rowspan="7">21</td><td rowspan="7">丙 烯 腋</td><td rowspan="7">22</td><td></td><td>0. 77</td><td>1.2</td><td rowspan="7">周 界 外 浓 度 二 最 高 点</td><td rowspan="7">0.60</td></tr><tr><td></td><td></td><td></td><td></td><td>1.3</td><td>2.0</td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td>4 一</td><td>6.6</td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td>7.5</td><td>11</td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td>12</td><td>18</td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td>16</td><td>25</td><td></td><td></td></tr><tr><td rowspan="9">22</td><td></td><td rowspan="9">16</td><td></td><td>0.52</td><td>0.78</td><td></td><td rowspan="10">0. 40</td></tr><tr><td></td><td></td><td></td><td></td><td>0. 87</td><td>1.3</td><td></td><td></td></tr><tr><td></td><td>小</td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td>2. 9</td><td>4. 4</td><td>周 界 外 浓 度</td><td></td></tr><tr><td></td><td>燧</td><td></td><td></td><td></td><td></td><td>一</td><td></td></tr><tr><td></td><td></td><td></td><td></td><td>5.0</td><td>7.6</td><td>最 高 点</td><td></td></tr><tr><td></td><td>醛</td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td>7.7</td><td>12</td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td>11</td><td>17</td><td></td><td></td></tr><tr><td rowspan="7">23</td><td rowspan="7">+ 着萱黯 氨</td><td rowspan="7">1.9 '</td><td></td><td>0.15</td><td>0. 24</td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td>0.26</td><td>0.39</td><td></td><td rowspan="6">0. 024</td></tr><tr><td></td><td></td><td></td><td></td><td>0. 88</td><td>1.3</td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td>1.5 ′</td><td>2.3</td><td>周 界 外 浓 度</td><td></td></tr><tr><td></td><td></td><td></td><td></td><td>2.3</td><td>3.5</td><td>最 高 点</td><td></td></tr><tr><td></td><td></td><td></td><td></td><td>3.3</td><td>5.0</td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td>4.6</td><td>7.0</td><td></td><td></td></tr><tr><td rowspan="7">24</td><td></td><td rowspan="7">甲 酯</td><td></td><td></td><td></td><td>5.1</td><td>7.8</td><td rowspan="7">周 界 外 浇 度 最 高 点</td><td></td><td rowspan="7">12</td><td></td></tr><tr><td rowspan="4">190</td><td></td><td>8.6</td><td>13</td></tr><tr><td></td><td></td><td></td><td rowspan="3"></td><td>29</td><td>44</td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td>50</td><td>70</td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td>77</td><td>120</td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td>100</td><td>170、</td><td></td><td></td></tr><tr><td></td><td></td><td></td><td>15</td><td>0. 52</td><td>0. 78</td><td></td><td></td></tr></table>
+-----------------------------------
+25
+
+*% “ 排 放 氰 化 氡 的 排 气 筒 不 得 低 于 25m.。
+
+0,40
+
+,
+
+15。
+
+熹 熹 | 熹
+
+1
+
+亘 1
+
+青 | | 亘 |
+
+GB 16297 一 1996
+<table><thead><th rowspan="2"></th><th rowspan="2">鸿 裂 诚</th><th rowspan="2">最 高 允 许 浓</th><th colspan="3">最 高 允 许 排 放 速 率 ,kg/h</th><th colspan="2">无 组 织 排 放 监 控 浓 度 限 值</th></thead><tr><td rowspan="10"></td><td></td><td></td><td></td><td></td><td>二 级</td><td>三 级</td><td rowspan="10">监 控 点 周 界 外 浓 度 最 高 点</td><td rowspan="10">浓 度 mg/mi 0. 40</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td>0. 78</td><td></td><td></td></tr><tr><td></td><td>盎</td><td>排 放 度 mg/mis 60</td><td></td><td></td><td>1.3 3,8 6. 5 9, 9</td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td rowspan="5"></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td>14</td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td>20</td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td>35</td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td>44</td><td></td><td></td></tr><tr><td rowspan="6"></td><td></td><td rowspan="6">淅 浣 腹 怡</td><td></td><td rowspan="6"></td><td></td><td></td><td></td><td>0. 080</td><td rowspan="6">周 界 外 派 度 最 高 点</td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td>0, 13</td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td>0. 4</td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td>0. 040</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td>0. 77</td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td>周 界 外 浓 度 最 高 点</td><td></td></tr><tr><td rowspan="6"></td><td></td><td></td><td></td><td>0, 050 10</td><td>10. 080X 10 一</td><td colspan="2" rowspan="6">周 界 外 浓 度 0, 008 最高'【善冗 陪/m3</td></tr><tr><td></td><td></td><td>0. 30X10 一</td><td></td><td>0. 085 X 10 一</td><td>0.13 X 10 一</td><td colspan="2"></td></tr><tr><td></td><td>苯 并 [a] 芘</td><td>( 沥 青 及 碳 素 制 品</td><td></td><td>0. 29 X 10 一</td><td>0,43 X 10 一</td><td colspan="2"></td></tr><tr><td></td><td></td><td>生 产 和 加 工</td><td></td><td>0. 50X10 一</td><td>0. 76X 10 一</td><td colspan="2"></td></tr><tr><td></td><td></td><td></td><td></td><td>0. 77 X 10 一</td><td>1.2X10 一</td><td colspan="2"></td></tr><tr><td></td><td></td><td></td><td></td><td>1.1X10 一</td><td>1.7 10 一</td><td colspan="2"></td></tr><tr><td>30</td><td></td><td>3. 0</td><td></td><td>0.10 0. 17</td><td>0. 15 0. 26</td><td>周 界 外 浓 度</td><td>0. 080</td></tr></table>
+-----------------------------------
+50
+
+1.0
+
+1.5
+
+排 放 光 气 的 排 气 筒 不 得 低 于 25m。
+
+。 了 6。
+
+, 《
+
+| i 喜
+
+丨
+
+| |
+
+|
+
+GB 16297 一 1996
+<table><tr><td></td><td></td><td></td><td colspan="3">最 高 允 许 排 放 速 率 ,kg/h</td><td colspan="2">无 组 织 排 放 监 控 浓 度 限 值</td></tr><tr><td rowspan="6">31</td><td rowspan="6">沥 青 烟</td><td rowspan="5">140 ( 吹 制 沥 青 ) 40 ( 熔 炼 、 浸 涂 》</td><td></td><td></td><td></td><td colspan="2" rowspan="6">生 产 设 备 不 得 有 明 显 的 无 组 织 排 放 存 在</td></tr><tr><td></td><td></td><td></td><td></td><td>0, 30</td><td>0. 45</td><td colspan="2"></td></tr><tr><td></td><td></td><td></td><td></td><td>1.3</td><td>2,0</td><td colspan="2"></td></tr><tr><td></td><td></td><td></td><td></td><td>2.3</td><td>3.5</td><td colspan="2"></td></tr><tr><td></td><td></td><td></td><td></td><td>3.6</td><td>5.4</td><td colspan="2"></td></tr><tr><td></td><td></td><td>75 ( 建 筑 搅 拌 )</td><td></td><td>5. 6 7. 一 10</td><td>7. 5 1 15</td><td colspan="2"></td></tr><tr><td rowspan="2">32</td><td></td><td rowspan="2">石 楠 尘</td><td></td><td rowspan="2">玄 3 「 榔纤聂佳岫m , 10 mg/mis</td><td></td><td></td><td>0. 55 4 菖 害 ` 6.2</td><td>0. 83 。 …萱 亘 _ 9.3</td><td colspan="2" rowspan="2">生 产 设 备 不 得 有 明 显 的 无 组 织 排 放 存 在</td><td colspan="2"></td></tr><tr><td></td><td>9 一</td><td>14</td></tr><tr><td>33</td><td>蜚 焦 1 息</td><td>120 ( 使 用 溶 剂 汽 油 或 心 混 仁 j 其 它 清 合 烃 类 物 质 )</td><td></td><td>10 17 5 ,o0</td><td>16 27 菊 网</td><td>, 司量1亭量卡…互壕_董支更〕姜三 区 [ 7</td><td>40</td></tr></table>
+-----------------------------------
+续 表 2
+
+。17。
+
+爹
+
+董 菩 熹 | 重 趸
+
+|
+
+|
+
+皇 |
+
+荃
+
+| |
+
+) …
+
+等交鲨乙番…膏|E气「 - 羞方「]有关昙乌苄彗暹'乏([苄p十算二
+
+A1 当 排 气 筒 1 和 排 气 筒 2 排 放 同 一 种 污 染 物 , 其 距 离 小 于 该 两 个 排 气 简 的 高 度 之 和 时 , 应 以 一 个 等 效 排 气 筒 代 表 该 两 个 排 气 简 。
+
+A2 “ 等 效 排 气 筒 的 有 关 参 数 计 算 方 法 如 下 ;
+
+A2. | 等 效 排 气 筒 污 染 物 排 放 速 率 按 下 式 计 算
+
+A 一 Q 十 &,
+
+式 中 :Q@Q 一 一 等 效 排 气 筒 树 污 染 物 排 放 速 率 ;
+
+Qu,Q, 一 排 气 简 1 和 排 气 筒 2 的 树 污 染 物 排 放 速 率 。
+
+A2. 2 等 效 排 气 简 高 度 按 下 式 计 算
+
+【
+
+/z=^′告〈/z]z「L/zz2〉
+
+式 中 ;h 一 一 等 效 排 气 简 高 度 ;
+
+z 一 一 排 气 筒 1 和 排 气 简 2 的 高 度 。
+
+A2. 3 等 效 排 气 筒 的 位 置
+
+等 效 排 气 筒 的 位 置 , 应 于 排 气 筒 1 和 排 气 筒 2 的 连 线 上 , 若 以 排 气 筒 1 为 原 点 , 则 等 效 排 气 简 的 位 置 应 跌 原 点 为 ;
+-----------------------------------
+z - a(Q 一 Q,)/Q=aQ:/Q
+
+式 中 ,z 一 一 等 效 排 气 筒 距 排 气 简 1 的 距 离 ;
+
+排 气 筒 1 至 排 气 筒 2 的 距 离 ; 仁
+
+硒、Qz、Q一一同 z骞^2. 1。
+
+.18〇
+
+附 录 B( 标 准 的 附 录 )
+-----------------------------------
+确 定 栋 排 气 筒 最 高 允 许 排 放 速 率 的 内 插 法 和 外 推 法
+
+B1 树 排 气 筒 高 度 处 于 表 列 两 高 度 之 间 , 用 内 插 法 计 算 其 最 高 允 许 排 放 速 率 , 按 下 式 计 算 , Q=Q. 十 (Q@Q。tl 一 Q) ( 一 Ra)/CRatl 一 Ra)
+
+式 中 ;Q 一 一 树 排 气 筒 最 高 允 许 排 放 速 率 ; Q. 一 比 某 排 气 筒 低 的 表 列 限 值 中 的 最 大 值 ; 一 比 某 排 气 筒 高 的 表 列 限 值 中 的 最 小 值 ; 一 棠 排 气 简 的 几 何 高 度 ; 一 比 树 排 气 筒 低 的 表 列 高 度 中 的 最 大 值 ;
+
+一
+-----------------------------------
+Q 一
+
+h
+
+i 一 比 柏 排 气 筒 高 的 表 列 高 度 中 的 最 小 值 。
+
+B2 “ 荷 排 气 筒 高 度 高 于 本 标 准 表 列 排 气 筒 高 度 的 最 高 值 , 用 外 推 法 计 算 其 最 高 允 许 排 放 速 率 。 按 下 式 计 Q 二 Q,(R/ARy72
+
+式 中 ;Q 一 一 桅 排 气 筒 的 最 高 允 许 排 放 速 率 ;
+
+Q, 一 一 表 列 排 气 筒 最 高 高 度 对 应 的 最 高 允 许 排 放 速 率 ;
+-----------------------------------
+h
+
+茨 排 气 简 的 高 度 ;
+
+一 一 表 列 排 气 筒 的 最 高 高 度 。
+
+B3 树 排 气 筒 高 度 低 于 本 标 准 表 列 排 气 筒 高 度 的 最 低 值 , 用 外 推 法 计 算 其 最 高 允 许 排 放 速 率 , 按 下 式 计 Q 一 Q.(R/R7:
+
+式 中 ;Q 一 一 桅 排 气 简 的 最 高 允 许 排 放 速 率 ;
+
+Q 一 一 表 列 排 气 简 最 低 高 度 对 应 的 最 高 允 许 排 放 速 率 ;
+
+h 一 一 某 排 气 筒 的 高 度 ;
+
+h. 一 一 表 列 排 气 筒 的 高 低 高 度 。
+-----------------------------------
+算 ;
+
+算 ;
+
+无 组 织 排 放 监 控 点 设 置 方 法
+
+C1 由 于 无 组 织 排 放 的 实 际 情 况 是 多 种 多 样 的 , 故 本 附 录 仅 对 无 组 织 排 放 监 控 点 的 设 置 进 行 原 则 性 指 导 , 实 际 监 测 时 应 根 据 情 况 因 地 制 宣 设 置 监 控 点 。
+
+C2 单 位 周 界 监 控 点 的 设 置 方 法
+
+当 本 标 准 规 定 监 控 点 设 于 单 位 周 界 时 , 监 控 点 按 下 述 原 则 和 方 法 设 置
+
+;
+
+C2.1 下 列 各 点 为 必 须 遮 循 的 原 则 ;
+
+C2. 1. 1 监 控 点 一 般 应 设 于 周 界 外 10m 范 围 内 , 但 若 现 场 条 件 不 允 许 ( 例 如 周 界 沿 河 岸 分 布 ), 可 将 监 掉 点 移 至 周 界 内 侧 。 |
+
+C2. 1. 2 监 控 点 应 设 于 周 界 浓 度 最 高 点 。
+
+C2. 1.3 若 经 估 算 预 测 , 无 组 织 排 放 的 最 大 落 地 浓 度 区 域 超 出 10 米 范 围 之 外 , 将 监 控 点 设 置 在 该 区 域 之 内 。
+-----------------------------------
+C2. . 4 为 丁 确 定 浓 度 的 最 高 点 , 实 际 监 控 点 最 多 可 设 置 4 个 。
+
+C2. 1. 5 设 点 高 度 范 围 为 1. 5m 至 15m。
+
+C2.2 下 述 设 点 方 案 仅 为 示 意 , 供 实 际 监 测 时 参 考 。
+
+C2.2. 1 当 具 有 明 显 风 向 和 风 速 时 , 可 参 考 下 图 设 点 。
+
+无 组 织 撰 放 源 22
+
+C2. 2. 2 当 无 朋 春 风 向 和 风 速 时 , 可 根 据 情 况 于 可 能 的 浓 度 最 高 处 设 置 4 个 点 。
+
+C2.3 由 4 个 监 控 点 分 别 测 得 的 结 果 , 以 其 中 的 浓 度 最 高 点 计 值 。
+
+C3 在 排 放 源 上 、 下 几 向 分 别 设 置 参 照 点 和 监 控 点 的 方 法
+
+C3.1 下 初 各 点 为 必 须 遵 循 的 原 则 ;
+
+C3. 1.1 于 无 组 织 排 放 源 的 上 风 向 设 参 照 点 , 下 风 向 设 监 控 点 。
+
+C3. 1. 2 监 控 点 应 设 于 排 放 源 下 风 向 的 浓 度 最 高 点 , 不 受 单 位 周 界 的 限 制 。
+-----------------------------------
+C3.1. 3 为 了 确 定 浓 度 最 高 点 , 监 控 点 最 多 可 设 4 个 。
+
+C3.1.4 参 照 点 应 以 不 受 被 测 无 组 织 排 放 源 影 响 , 可 以 代 表 监 控 点 的 背 景 浓 度 为 原 则 。 参 照 点 只 设 1 个
+
+C3. 1. 5 监 控 点 和 参 照 点 跌 无 组 织 排 放 源 最 近 不 应 小 于 2m。
+
+C3.2 下 述 设 点 方 案 仅 为 示 意 , 供 实 际 监 测 时 参 考 。
+
+C3.2.1 当 具 有 明 显 风 向 和 风 速 时 , 可 参 考 下 图 设 点 。
+
+.20〕
+
+。
+
+C3.3 按 上 述 参 考 方 案 的 监 测 结 果 , 以 4 个 监 控 点 中 的 浓 度 最 高 点 测 值 与 参 照 点 浓 度 之 差 计 值 。

@@ -1,0 +1,624 @@
+-----------------------------------
+中
+
+华
+
+人
+
+民
+
+共
+
+和
+
+国
+
+国
+
+家
+
+标
+
+准
+
+GB 8978 一 1996
+
+7~[言水综合擅曰||…〕更i叠[标准
+
+代 替 GB
+
+8978
+
+一 88
+
+Integrated wastewater discharge standard
+
+00 0809 “ “ 一 一 十
+
+为贯彻《中华 `民共和国环ij莹保擅覆…'〉7i去〉)、《中华人民共和国水污鄄【岂圃赏治薯去》矛t丨((中华人民共和国翟鏖妄〉?莺套玉T1〔 〕萝慧保击贾叠'蓄譬看〉〉,擅空昔丨冒!僵水素亏萝'墅,保茧置'江Y"官Jr、薯7胡荨I「…1、运字[了」「、辜鬟董苴、水j军和箩盒雯罪、叠「睾^「素玉t重】{面水以〕S乏晕I薹』下水7j〈质l耆'〈]良好>I)爻歹蜃, 保 障 人 体 健 康 , 维 护 生 态 平 衡 , 促 进 国 民 经 济 和 城 乡 建 设 的 发 展 , 特 制 定 本 标 准 。
+-----------------------------------
+1 “ 主 题 内 容 与 适 用 范 围
+
+1. 1 主 题 内 容
+
+本 标 准 掉 照 污 水 排 放 去 向 , 分 年 限 规 定 了 69 着覆1庸7j(孝_亏箩誓墅!亥J1冒【蓼高允}气=攫…I丨仨】漕憩I曹【荨翼踵更度及音′圃廖蓬登}'缩于业1鬟Z7蔚爻I二1午誓…l鬓 水 量 。
+
+1. 2 适 用 范 围
+
+又!叉才歹…言羲笙】置用于]亘雹有′宫/邑位7j〈密亏′鄄壤戛燮蕨乙r围'叁I聋…丨薹…放′邕雇壬三鏖真 以丕乏建「'蚕乏项目曹置重丨要t〈ij鄙董影lll丨吾}i丨荸价 建*』三窃乙项目玉不ij量董奢妻莨挫7逞′)阗鸳t 施 设 计 、 竣 工 验 收 及 其 投 产 后 的 排 放 管 理 。
+-----------------------------------
+执
+
+掉 照 国 家 综 合 排 放 标 准 与 国 家 行 业 排 放 标 准 不 交 叉 执 行 的 原 则 , 造 纸 工 业 行 GB 3544 一 92《 造 纸 工 业 水 污 棣 物 排 放 标 准 》, 船 舶 执 行 GB 3552 一 83《 船 舶 污 染 物 排 放 标 准 》, 船 船 工 业 执 行 GB 4286 一 84 《 船 舶 工 业 污 染 物 排 放 标 准 》; 海 洋 石 油 开 发 工 业 执 行 GB 4914 一 85《 海 洋 石 油 开 发 工 业 含 油 污 水 排 放 标 饕】笙》，牵梦盲鱼覃丧茎哥妻整工业擅穸`蠢行Gl蓦蛔87_92《纺织染整工业水污染物排放标准》,r拐左1类贡J[]工工业奢萝宪行 GB 13457 一 92《 肉 类 加 工 工 业 水 污 染 物 排 放 标 准 》, 合 成 氮 工 业 执 行 GB 13458 一 92《 合 成 氮 工 业 水 污 染 物 排 放 标 准 》, 钢 铁 工 业 执 行 GB B456一92《钢铁工业水污染物排放标准》，航天推进剂使用执行` CrB‖374_93〈〈瀑蔓节`c天眷筐进三责】fl]7j〈荨亏垂馨墅镳囱菁…I【…文董J〔叟伊亩零蕃笙〉>,彝妻毛蜱雷吵昙工业擅萝蘑嘉行 GB 14470. 1 一 14470. 3 一 93 和 GB 赌74~4279_84《兵器工业水污染物攫曰[丨仨〕直尹!Z标济售》，覆臻雷适，i[】j工业击贲毫行GI塞 15580 一 95《 磷 肥 工 业 水 污 染 物 排 放 标 准 》, 烧 碱 、 聘 氯 乙 烯 工 业 执 行 GB 郾581一95《烧碱、聚氯乙氦罄F蜃工叠I丨乙水霏T言鄄【皇′勿茎芒薯丨…]莺夏乙标}钜》墓〕言罄奢t童】′7j〈荨'言雪【岂 物 排 放 均 执 行 本 标 准 。 ′
+-----------------------------------
+1. 3 本 标 准 颁 布 后 , 新士首贡J[l国氦厉〔′『于业7j〈蓄'亏萝掌毒物排嫩【藿【歹扁}雀的行业 按 其 适 用 范 围 执 行 相 应 的 国 家 水 污 染 物 行 业 标 准 , 不 再 执 行 本 标 准 。
+-----------------------------------
+2 引 用 标 准
+
+下 列 标 准 所 包 含 的 条 文 , 通 过 在 本 标 准 中 引 用 而 构 成 为 本 标 准 的 条 文 。 本 标 准 出 版 时 , 所 示 版 本 均 为 有 效 。 所 有 标 准 都 会 被 修 订 , 使 用 本 标 准 的 各 方 应 探 讨 使 用 下 列 标 准 最 新 版 本 的 可 能 性 。
+
+“,GB 3097 一 82 “ 海 水 水 质 标 准
+
+GB 3838 一 88 地 面 水 环 境 质 量 标 准
+-----------------------------------
+GB 8703 一 88 辐 射 防 护 规 定
+
+3
+
+定 义
+
+3.1 “ 污 水
+
+指 在 生 产 与 生 活 活 动 中 排 放 的 水 的 总 称 。
+
+「一一_____一__一___一_ - _一_一______一一_一一_「一一_一 国曼蓦更劈不ij童保薯=′曾_ 司19三覆6 - 10一【)4】蜃tt)筐 ' 1998 - 01 - 01 实 施
+
+272
+
+3. 2 排 水 量
+
+指 在 生 产 过 程 中 直 接 用 于 工 艺 生 产 的 水 的 排 放 量 。 不 包 括 间 接 冷 却 水 、 厂 区 钞 炉 、 电 站 排 水 。 3. 3 一 切 排 污 单 位 指 札 标 准 适 用 范 围 所 包 括 的 一 切 排 污 单 位 。 3.4 其 他 排 污 单 位 指 在 某 一 控 制 项 目 中 , 除 所 列 行 业 外 的 一 切 排 污 单 位
+
+指 在 某 一 控 制 项 目 中 , 除 所 列 行 业 外 的 一 切 排 污 单 位 。
+
+4 技 术 内 容
+
+4. 1 “ 标 准 分 级
+
+4. 1. 1 , 排 人 GB 3838〖〖 类 水 域 ( 划 定 的 保 护 区 和 游 泳 区 除 外 ) 和 排 入 GB 3097 中 二 妻岂箩每i重′畹【莹l〈J寺亏水 执 行 一 级 标 准 。
+-----------------------------------
+4. 1. 2 排 入 GB 3838 中 N 、 V 类 水 域 和 排 人 GB 3097 中 三 类 海 域 的 污 水 , 执 行 二 级 标 准 。
+
+。
+
+4. 1. 3 排 人 设 置 二 级 污 水 处 理 厂 的 城 镇 排 水 系 统 的 污 水 , 执 行 三 级 标 准
+
+4. 1.4 “ 排 人 未 设 置 二 级 污 水 处 理 厂 的 城 镇 排 水 系 统 的 污 水 , 必 须 根 据 排 水 系 统 出 水 受 纳 水 域 的 功 能 要 求 , 分 别 执 行 4. 1.1 和 4. 1. 2 的 规 定 。
+
+4. 1. 5 _GB 3838 中 L 、f 类 水 域 和 类 水 域 中 划 定 的 保 护 区 ,GB 3097 中 一 类 海 域 , 禁 止 新 建 排 污 口 , 现 有 排 污 口 应 按 水 体 功 能 要 求 , 实 行 污 染 物 总 量 控 制 , 以 保 证 受 纳 水 体 水 质 符 合 规 定 用 途 的 水 质 标 准 。 4. 2 标 准 值
+-----------------------------------
+4. 2. 1 本 标 准 将 排 放 的 污 染 物 按 其 性 质 及 控 制 方 式 分 为 二 类 。
+
+4.2. 1. 1 第 一 类 污 染 物 : 不 分 行 业 和 污 水 排 放 方 式 , 也 不 分 受 纳 水 体 的 功 能 类 别 , 一 律 在 车 间 或 车 间 处 理 设 施 排 放 口 采 样 , 其 最 高 允 许 排 放 浓 度 必 须 达 到 本 标 准 要 求 ( 采 矿 行 业 的 尾 矿 坝 出 水 口 不 得 视 为 车 间 排 放 口 )。
+
+4..2. 1.
+-----------------------------------
+第 二 类 污 染
+
+2
+
+: 在 排 污
+
+位 排
+
+物 单 放 口 采 样 , …l菖三i′荀允喽午攫覃丨丨仨】罡鸾〔箩踵E】变鳗Z`歹真町达至1j2薯蜇才安了扇羲售要求 4. 2. 2 本 标 准 按 年 限 规 定 了 第 一 类 污 染 物 和 第 二 类 污 染 物 最 高 允 许 排 放 浓 度 及 部 分 行 业 最 高 允 许 排 水 量 , 分 别 为 ,
+
+4: 2. 2. 1 1997 年 12 月 31 日 之 前 建 设 ( 包 括 改 、 扩 建 ) 的 单 位 , 水 污 染 物 的 排 放 必 须 同 时 执 行 表 1、 表 2、 表 3 的 规 定 。
+
+4.2.2. 2 1998 年 1 月 1 日 起 建 设 ( 包 括 改 、 扩 建 ) 的 单 位 , 水荨「【壹童事邕歹廖ZII暮lg擅…_丨…放必须董同rl′I攫寥霜行表1 表 4\ 表 5 的 规 定 。
+
+4. 2. 2. 3 建 设 ( 包 括 改 、 戎萝“堇宦)真亮亘'廷透l耆_g蜀宦i查之!]〕`间 以 环 境 影 响 评 价 报 告 书 ( 表 ) 批 准 日 期 为 准 划 分 。 4. 3 其 他 规 定
+
+4. 3. 1 同 一 排 放 口 排 放 两 种 或 两 种 以 上 不 同 类 别 的 污 水 , 丁 每 种 污 水 的 排 放 标 准 又 不 同 时 , 其 混 合 污 水 的 排 放 标 准 按 附 录 A 计 算 。
+-----------------------------------
+4. 3. 2 工 业 污 水 污 染 物 的 最 高 允 许 排 放 负 荷 量 按 附 录 B 计 算 。
+
+4. 3. 3 污 染 物 最 高 允 许 年 排 放 总 量 按 附 录 C 计 算 。
+
+4. 3. z1 亘【寸于虔覃【丨…】驴j〔羊'蠢′有放妄言〕"锗哥…缨r亥】质I誓'乞丨?亏7j〈 除 执 行 本 标 准 外 , 还 须 符 合 GB 8703 一 88《 辐 射 防 护 规 定 》。
+
+表 1 第 一 类 污 染 物 最 高 允 许 排 放 浓 度
+<table><thead><th>最 高 允 许 排 放 浓 度</th></thead><tr><td>0. 05</td></tr><tr><td>不 得 检 出</td></tr></table>
+-----------------------------------
+mg/L
+
+GB “8978 一 1996
+<table><thead><th colspan="3">表 1(</th><th colspan="3">完 》</th><th rowspan="2">“_mg/ 儿</th></thead><thead><th></th><th></th><th></th><th>最 高 允 许 排</th><th>放 浓 度</th><th></th></thead><tr><td></td><td></td><td></td><td>0:5</td><td></td><td>,</td></tr><tr><td></td><td></td><td></td><td>1 0</td><td></td><td></td></tr><tr><td>苯 并 (a) 芘</td><td></td><td></td><td>0. 000 03</td><td></td><td></td></tr></table>
+-----------------------------------
+第 二 类 污 染 物 最 高 允 许 排 放 泥 度
+
+表
+
+2
+<table><thead><th></th><th></th><th></th><th></th><th>二 级 标 准</th><th>| 三 级 标 准</th></thead><tr><td></td><td>其 他 排 污 单 位</td><td></td><td></td><td></td><td></td></tr><tr><td rowspan="5">林 河 牢 )</td><td>采 矿 , 选 矿 , 选 煤 工 业</td><td></td><td></td><td></td><td></td></tr><tr><td></td><td>「 脉 金 选 矿</td><td></td><td></td><td></td><td></td></tr><tr><td></td><td>[ 顺 E</td><td></td><td></td><td>a</td><td>门 一</td></tr><tr><td></td><td>城 镇 二 级 污 水 处 理 厂</td><td></td><td></td><td></td><td></td></tr><tr><td></td><td>其 他 排 污 单 位</td><td></td><td></td><td></td><td></td></tr><tr><td rowspan="4">. 五 日 生 化 需 氧 量 6oDe5</td><td></td><td>甘 蔡 制 精 、 苎 麻 脱 胶</td><td>\ 涛 法 纤 维 板 工 业</td><td></td><td></td><td></td></tr><tr><td>| 甜 菜 制 糖 \ 酒 精 \</td><td>显 精 , 皮 革 , 化 纤 浆 粕 工 业</td><td></td><td></td><td></td></tr><tr><td></td><td>城 愿 二 级 污 水 处 理 厂</td><td>,</td><td></td><td></td><td></td></tr><tr><td></td><td>「 其 他 排 污 单 位 。</td><td></td><td></td><td></td><td></td></tr><tr><td></td><td>甜 菜 制 糖 、 焦 化 、 台 毛 、 有 机 磷 农 药 工 业 _</td><td>成 脂 股 酸 、 温 法 纤 维 板 、 染 料 、 洗</td><td></td><td></td><td></td></tr><tr><td rowspan="3">. 化 学 需 氧 量 (COD) .</td><td>咖 精 、 酒 糖 . 医 药 原 | 化 纤 浆 粗 工 业</td><td>料 药 、 生′绥z'镶!呈售蔓了 芙 麻 脱 胶 、 皮 革 、</td><td></td><td></td><td></td></tr><tr><td></td><td>石 添 化 工 工 业 ( 包 摇</td><td>石 浩 炳 制 》</td><td></td><td></td><td></td></tr><tr><td></td><td>城 镇 二 级 污 水 处 理 厂</td><td></td><td></td><td></td><td></td></tr><tr><td></td><td>一 切 排 污 单 位</td><td>_圃_警_'羁_</td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td>05</td><td>05</td><td>| 0</td></tr><tr><td rowspan="2"></td><td>电 影 洗 片 ( 铁 氰 化 合</td><td>物 》</td><td></td><td></td><td></td></tr><tr><td></td><td>′要罄怒_!薯垂…'髌?亏l毫亘位</td><td></td><td></td><td></td><td></td></tr></table>
+-----------------------------------
+274
+
+力
+
+GB 8978 一 1996
+<table><tr><td rowspan="2">硫 化 物 |</td><td>“ | 一 切 排 污 单 位 .</td><td></td><td></td><td></td></tr><tr><td></td><td>医 药 原 料 药 、 染 料 、 石</td><td>油 化 工 工 业</td><td></td><td></td></tr><tr><td>氮 氨</td><td>其 他 排 污 单 位</td><td></td><td></td><td></td></tr><tr><td></td><td>低 氟 地 区 ( 水 体 含 氟 量 一 0. 5mg</td><td>/L)</td><td></td><td></td></tr><tr><td></td><td>其 他 排 污 单 位</td><td></td><td></td><td></td></tr><tr><td>磷 酸 盐 ( 以 P 计 )</td><td>| 一 切 排 污 单 位</td><td></td><td></td><td></td></tr><tr><td>甲 醛</td><td></td><td></td><td></td><td></td></tr><tr><td>苯 胺 类</td><td></td><td></td><td></td><td></td></tr><tr><td>2</td><td></td><td></td><td></td><td></td></tr><tr><td rowspan="2">朋 离 子 表 面 活 性 剂 , (CLAS)</td><td>合 成 洗 涤 剂 工 业</td><td>,</td><td></td><td></td></tr><tr><td></td><td>〕菩…{1髂…邑_薯…『亏__}惠{艾Z 「</td><td></td><td></td><td></td></tr><tr><td>总 铜</td><td></td><td></td><td></td><td></td></tr><tr><td>总 锋</td><td></td><td></td><td>.</td><td></td></tr><tr><td rowspan="2">总 锰 ,</td><td>合 成 脂 肪 酸 工 业 -</td><td></td><td>。</td><td>.</td></tr><tr><td></td><td>0</td><td></td><td></td><td>-</td></tr><tr><td>r</td><td>一 ss 一</td><td></td><td></td><td></td></tr><tr><td>显 影 剂 及 氧 化 物 总</td><td>量 | 电 影 洗 片</td><td></td><td></td><td></td></tr><tr><td>有 机 磷 农 药 ( 以 P 计 》 `</td><td></td><td></td><td></td><td></td></tr><tr><td rowspan="2">粤 大 肠 茧 群 数</td><td>迪 院 “ 、 兽 医 院 及 医 疗</td><td>机 构 含 病 原 体 污 水</td><td></td><td></td></tr><tr><td></td><td>传 染 病 、 结 核 病 医 院 污</td><td>水</td><td></td><td></td></tr><tr><td rowspan="2">| , 总 余 氯 ( 采 用 氯 化 消 毒 的 医 院 污 水 ) “|</td><td>| 医 院 “、 兽 医 院 及 医 疗</td><td>机 构 含 病 原 体 污 水</td><td></td><td></td></tr><tr><td></td><td colspan="2">传 染 病 、 结 核 病 医 院 污 水</td><td></td><td></td></tr></table>
+-----------------------------------
+GB 8978 一 1996
+
+表 3 部 分 行 业 最 高 允 许 排 水 量 (1997 年 12 月 31 日 之 前 建 设 的 单 位 )
+<table><thead><th rowspan="4"></th><th></th><th colspan="2" rowspan="2">「 行 业 类 别</th><th colspan="2" rowspan="3">有 色 金 属 系 统 选 矿 :</th><th colspan="3" rowspan="4">最 高 允 许 排 水 重 或 最 低 允 许 水 重 复 利 用 率 0 水 重 复 利 用 率 755% 水 重 复 利 用 率 90% ( 选 煤 )</th></thead><thead><th></th><th></th><th colspan="2"></th><th colspan="2"></th><th colspan="3"></th></thead><tr><td rowspan="5"></td><td></td><td></td><td colspan="2"></td><td colspan="3"></td></tr><thead><th colspan="4">其 他 矿 山 工 业 采 矿 、 选 矿 、 选 煤 等</th><th></th><th></th><th colspan="3"></th></thead><tr><td></td><td></td><td>#</td><td>园 r</td><td>T</td><td></td><td>一 一 一 ssray 一</td></tr><tr><td></td><td></td><td>述 [ 复</td><td>r</td><td>厂</td><td>一</td><td>一 T ggmxyay 一</td></tr><tr><td></td><td></td><td>1sas</td><td>一 一 一 一 一</td><td></td><td></td><td>T asmur “ 一</td></tr><tr><td></td><td colspan="2" rowspan="2"></td><td colspan="2"></td><td></td><td colspan="3">一 吴 定 李 用 十 80</td></tr><tr><td></td><td></td><td></td><td></td><td>之 500 万 t,1. 0my/t( 原 油 )</td></tr><tr><td rowspan="6"></td><td colspan="3" rowspan="2">石 油 炼 制 工 业 ( 不 包 括 直 排 水 炼 油 厂 类</td><td></td><td></td><td>250 一 500 万 t,1. 2mz/t( 原 油</td></tr><tr><td></td><td colspan="3"></td><td></td><td></td><td>一 250 万 t,l, 5ma/t( 原 油 )</td></tr><tr><td></td><td>加</td><td colspan="2" rowspan="4">工 深 度 分 : A 燃 料 型 炼 油 厂 B. 燃 料 十 涌 滑 油 型 炼 油 厂 C. 燃 料 十 浪 滑 泉 型 十 炼 油 化 工 型 炼 油 厂 包 括 加 工 高 含 硫 原 泓 页 岩 油 和 石 油 添 加 剂 生 产 基 地</td><td></td><td></td><td>之 500 万 t,1. 5m:/t( 原 油 》</td></tr><tr><td></td><td></td><td colspan="2"></td><td></td><td></td><td>250 一 500 万 t,2. 0ms/t( 原 油 》</td></tr><tr><td></td><td></td><td colspan="2"></td><td></td><td></td><td>一 250 万 t,2. 0m:/t( 原 油 )</td></tr><tr><td></td><td>(</td><td colspan="2"></td><td></td><td></td><td>七 506 万 t:2. 0m5/t( 原 泊 〕 250 一 500 万 t,2. 5ins/t( 原 油 )</td></tr><tr><td></td><td></td><td colspan="2" rowspan="2">gr 一 arass</td><td colspan="2"></td><td></td><td></td><td>一 250 万 t,2. 5my/t( 原 泉 )</td></tr><tr><td rowspan="2"></td><td rowspan="2"></td><td></td><td></td><td>一 cnasmap 一</td></tr><tr><td></td><td></td><td></td><td>T</td><td colspan="3">asase 一</td></tr><tr><td rowspan="2"></td><td colspan="3" rowspan="2">assess “ 一 E</td><td colspan="3" rowspan="2">[ area 一</td></tr><tr><td></td><td colspan="3"></td><td colspan="3"></td></tr><tr><td rowspan="3">“</td><td></td><td></td><td>ss 一 一</td><td></td><td></td><td>0</td></tr><tr><td></td><td></td><td>回</td><td>万</td><td></td><td></td><td>一 一 ss</td></tr><tr><td rowspan="3">l</td><td></td><td></td><td colspan="2" rowspan="2">s</td><td>一</td><td colspan="3"></td></tr><tr><td></td><td colspan="2"></td><td>一 一 一 一 一</td><td></td><td>T</td><td>samme 一</td></tr><tr><td colspan="4">ax 一 一 一 一</td><td></td><td>T</td><td>一 ss 一</td></tr><tr><td rowspan="3"></td><td colspan="3">E</td><td></td><td></td><td></td></tr><tr><td></td><td>hazas</td><td colspan="2">“ 一 一</td><td colspan="3">一 T amemw 一 一</td></tr><tr><td></td><td></td><td></td><td></td><td colspan="3" rowspan="2">16. 0ms/t( 啄 酶 ) 5. 0ms/t( 产 品</td></tr><tr><td></td><td colspan="3"></td><td colspan="3"></td></tr><tr><td></td><td></td><td colspan="2"></td><td colspan="3" rowspan="2">15. 0ms/t( 硫 酸 〉 500ms/t( 原 麻 ) 或 750my/t( 精 干 麻 》</td></tr><tr><td></td><td colspan="3"></td><td colspan="3"></td></tr><tr><td></td><td colspan="3"></td><td colspan="3">本 色 :150m3/t( 浆 ) 漂 白 :240my/t( 浆 》</td></tr></table>
+-----------------------------------
+276
+
+GB 8978 一 1996
+<table><thead><th>国 医 `</th><th>, 行 业 类 别</th><th>表 3( 完 》</th><th rowspan="3">最 高 允 许 排 水 重 或 最 低 允 许 水 重 复 利 用 率 rore</th><th></th></thead><tr><td rowspan="2">7 彗_…菩)(】谱鱼彝I!垒=F</td><td>有</td><td>a</td><td></td><td></td></tr><tr><td></td><td>C</td><td></td><td></td><td></td></tr><tr><td>E</td><td></td><td></td><td>门 一 T</td><td>一 一</td></tr><tr><td>电 影 洗 片</td><td>_</td><td></td><td>5 ms/1 000m〈35mm 的 胶 片</td><td></td></tr><tr><td></td><td></td><td></td><td>冷 却 池 的 水 循 环 利 用 率 95 史</td><td>′</td></tr></table>
+-----------------------------------
+表 4 第 二 类 污 染 物 最 高 允 许 排 放 浓
+
+度
+
+(1998 年 1 月 1 日 后 建 设 的 单 位 )
+<table><thead><th rowspan="2"></th><th></th><th rowspan="2">arirarLz</th><th rowspan="2"></th><th rowspan="2">=</th></thead><thead><th></th><th>a “ 一</th><th></th><th></th><th></th></thead><tr><td>esama</td><td>w 一</td><td>arLarJ</td><td></td><td></td></tr><tr><td rowspan="3">悬 津 物 (SS) |</td><td></td><td>70</td><td>300</td><td></td></tr><tr><td></td><td></td><td>70</td><td>800</td><td></td></tr><tr><td></td><td></td><td>70</td><td>150</td><td>400</td></tr><tr><td rowspan="4">五 日 生 化 需 氧 量 (BODs2〉</td><td></td><td>制 糟 、 亚 麻 脱 胶 . 逼 法 纤 维 板 、 染 料 、 洗 毛 工 业</td><td></td><td>60</td><td>600</td></tr><tr><td></td><td></td><td></td><td>0 10</td><td>600</td></tr><tr><td></td><td></td><td></td><td></td></tr><tr><td></td><td>排 污 单 位</td><td></td><td></td><td></td></tr><tr><td rowspan="5">化 学 需 氧 量 (COD〉 |</td><td>制 糖 、 合 成 脂 肪 酸 、 涨 法 纤 维 板 、 染 料 、 洗 毛 、 有 机 农 药 工 业</td><td></td><td></td><td></td></tr><tr><td></td><td>酒 精 、 医 药 原 料 药 . 生 物 制 药 、 芬 麻 脱 胶 \ 皮 革 、 化 浆 粕 工 业</td><td></td><td></td><td></td></tr><tr><td></td><td>化 工 工 业 ( 包 括 石 油 炼 制 )</td><td></td><td></td><td></td></tr><tr><td></td><td>二 级 污 水 处 理 厂</td><td></td><td></td><td></td></tr><tr><td></td><td>其 排 污 单 位</td><td>100</td><td></td><td></td></tr><tr><td>石 油 类</td><td>排 污 单 位 ′</td><td>5</td><td></td><td></td></tr><tr><td></td><td>排 污 单 位</td><td>, 10</td><td></td><td></td></tr><tr><td>挥 发 酣</td><td>排 污 单 位</td><td>0. 5</td><td></td><td></td></tr><tr><td>[ 一</td><td></td><td></td><td></td><td></td></tr><tr><td>E 一 硫 化 物</td><td></td><td></td><td></td><td></td></tr><tr><td rowspan="2"></td><td>原 料 药 、 染 料 、 石 油 化 工 工 业</td><td>15</td><td>50</td><td></td></tr><tr><td></td><td>其 排 污 单 位</td><td></td><td></td><td></td></tr></table>
+-----------------------------------
+mg/L
+
+277
+
+GB 8978 一 1996
+<table><tr><td rowspan="3"></td><td rowspan="3"></td><td>黄 磷 工 业</td><td></td><td></td></tr><tr><td></td><td></td><td>何 受 地 区 ( 水 体 吴 氟 量 一 0. 5mg/L)</td><td></td><td></td></tr><tr><td></td><td></td><td>其 他 排 污 单 位</td><td></td><td></td></tr><tr><td></td><td>磷 酸 盐 ( 以 P 计 》</td><td></td><td></td><td></td></tr><tr><td></td><td>甲 醛</td><td></td><td></td><td></td></tr><tr><td></td><td>明 离 子 表 面 活 性 剂 (LAS》</td><td></td><td></td><td></td></tr><tr><td></td><td>总 锋</td><td></td><td></td><td></td></tr><tr><td rowspan="2"></td><td></td><td></td><td>合 成 胴 肢 酸 工 业</td><td></td><td></td></tr><tr><td></td><td>其 他 排 污 单 位</td><td></td><td></td></tr><tr><td></td><td>彩 色 显 影 剂</td><td>电 影 洗 片</td><td></td><td></td></tr><tr><td></td><td>显 影 剂 及 氧 化 物 总 量</td><td>| 电 影 洗 片</td><td></td><td></td></tr><tr><td></td><td>有 机 磷 农 药 ( 以 P 计 )</td><td></td><td></td><td></td></tr><tr><td></td><td>乐 果</td><td>【 一 奶 排 3</td><td></td><td></td></tr><tr><td></td><td>对 硫 磷</td><td>一 切 排 污 单 位</td><td></td><td>.</td></tr><tr><td></td><td>甲 基 对 硫 磷 ,</td><td>一 切 排 污 单 位</td><td>-</td><td></td></tr><tr><td></td><td>五 氯 酚 及 五 氯 酚 仲 | 《 以 五 氯 酚 计 》</td><td></td><td></td><td></td></tr><tr><td></td><td>「Il废骸乒l有藿富t卤化!′囊乙′ _</td><td>nnee</td><td></td><td></td></tr><tr><td></td><td>三 氯 甲 烷</td><td>一 切 排 污 单 位</td><td></td><td></td></tr><tr><td></td><td>三 氯 乙 烯</td><td>一1宴〕〕骞`睾丨髂爹'i]雪真位</td><td></td><td></td></tr><tr><td>36</td><td></td><td></td><td></td><td></td></tr><tr><td>37 _</td><td></td><td></td><td></td><td></td></tr></table>
+-----------------------------------
+278
+
+G8 8978 一 1996
+<table><tr><td></td><td></td><td>1 闯 | l</td><td></td><td></td><td></td><td></td></tr><tr><td>【 粪 大 肠 万 群 数</td><td></td><td>医 院 “、 兽 医 院 及 医 疗 机 构 含 病 原 体 污 “</td><td>水</td><td>f</td><td>行 己 巳 心 矗 一 行</td><td>. Cn [ 仁 巳 心 | 力 人</td></tr><tr><td></td><td></td><td>传 染 病 、 结 核 病 医 院 污 水</td><td></td><td>I00 个 儿</td><td>500 个 一 .l</td><td>匕 史 己 巳 小 [ 一</td></tr><tr><td>总 余 氯 ( 札 用 氯 化 消</td><td></td><td>医 院 “ . 兽 医 院 及 医 疗 机 构 含 病 原 体 污</td><td>水</td><td></td><td>公 3( 接 航 时 间 乐 1h)</td><td>|&gt;2( 接 触 | 时 间 之 lbh》 | 二 5(</td></tr><tr><td>毒 的 医 院 污 水 )</td><td></td><td>传 染 病 . 结 核 病 医 院 污 水</td><td></td><td></td><td>之 6.5( 接 「</td><td>接 触</td></tr><tr><td></td><td></td><td>合 成 脂 肪 酸 工 业</td><td></td><td></td><td></td><td></td></tr><tr><td>imaeoe</td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td>其 他 排 污 单 位 国</td><td>园 园</td><td></td><td></td><td></td></tr><tr><td>廷 其 佑 招 芒 单 位 指 x 指 50 个 床 位 以 * * 加 氯 消 毒 后 须</td><td>陈 上 进</td><td>在 试 掩 制 项 目 中 所 列 行 业 以 外 的 一 切 排 的 医 院 。 , 行 脱 氯 处 理 , 达 到 本 标 准 。</td><td>污 单 位 。</td><td></td><td></td><td></td></tr></table>
+-----------------------------------
+279
+
+=
+
+表 5 部 分 行 业 最 高 允 许 排 水 量 (1998 年 1 月 1 日 后 建 设 的 单 位 )
+<table><tr><td rowspan="5">,</td><td rowspan="5"></td><td colspan="3" rowspan="3">0 一 [ 唐 述 r 一</td><td></td><td colspan="2" rowspan="4">T eomyxyp r 一 一 T eemaray r T T gomyuray r 8. Omy/t( 矿 石 )</td></tr><tr><td></td><td colspan="3" rowspan="3">全 一 选 芒 [ 贾 化 r</td><td></td><td colspan="3"></td><td>一</td><td colspan="2"></td></tr><tr><td></td><td></td><td colspan="3"></td><td colspan="3"></td><td>一 万</td><td colspan="2"></td></tr><tr><td></td><td colspan="3">硬 扬</td><td></td><td colspan="3"></td><td></td><td colspan="2"></td></tr><tr><td></td><td colspan="3" rowspan="2">焦 化 企 业 ( 煜 气 厂 )</td><td></td><td></td><td>1.</td><td>2ma/t( 焦 炭 》</td></tr><tr><td>E</td><td colspan="3">属 治 炼 及 金 属 加 工</td><td colspan="3"></td><td></td><td>重</td><td>水 复 利 用 率 805%</td></tr><tr><td rowspan="12">4</td><td colspan="3" rowspan="3">有 色 金 、 石 油 点 制 工 业 ( 不 包 括 直 排 水 炼 油 厂 )</td><td colspan="3"></td><td></td><td>之 500</td><td>万 t,1. 0my/t( 原 油</td></tr><tr><td></td><td colspan="3"></td><td></td><td>250</td><td>500 万 t,1. 2m3/t(</td></tr><tr><td></td><td></td><td>一 一 250</td><td>原 油 万 t,y1. 5my/t( 原 油 》</td></tr><tr><td></td><td>加</td><td colspan="2" rowspan="7">工 深 度 分 类 : A 燃 料 型 炼 厂</td><td></td><td>三 500</td><td>五 tyl. 5imi/t( 原 油</td></tr><tr><td></td><td colspan="3" rowspan="6">油 B, 燃 料 十 淮 滑 油 型 炼 油 厂 ′ C. 燃 料 十 涓 滑 油 型 十 炼 油 化 工 型 炼 油 厂 ( 包 括 加 工 高 含 硫 原 油 页 岩 油 和 石 泉 添 加 剂 生 产 基 地 的 炼 油 厂 )</td><td colspan="3" rowspan="7"></td><td colspan="3"></td><td colspan="2"></td><td></td><td>250 一</td><td>500 万 t,2. Oma/t( 原 油 ) ,</td></tr><tr><td></td><td colspan="3"></td><td colspan="3"></td><td colspan="2"></td><td></td><td>一 250</td><td>万 t,2. 0ma/t( 原 油 )</td></tr><tr><td></td><td colspan="3"></td><td colspan="3"></td><td colspan="2"></td><td></td><td>之 500</td><td>万 t,2. 0ms/t( 原 油 )</td></tr><tr><td></td><td colspan="3"></td><td colspan="3"></td><td colspan="2"></td><td></td><td></td><td>5ms/t(</td></tr><tr><td></td><td colspan="3"></td><td colspan="3"></td><td colspan="2"></td><td></td><td>一</td><td>250 500 万 t,2. 原 泗</td></tr><tr><td></td><td colspan="3"></td><td colspan="3"></td><td colspan="2"></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td>一 250</td><td>万 t,2. 5m:/t( 原 油 )</td></tr><tr><td rowspan="7"></td><td></td><td rowspan="7"></td><td></td><td></td><td></td><td>200.</td><td>Oms/t( 烷 基 苯 》</td></tr><tr><td></td><td></td><td>氯 化 法</td><td>生 产 烷 基 苯</td><td></td><td></td><td></td></tr><tr><td></td><td></td><td>解</td><td>法 生 产 基 英</td><td></td><td>. 70.</td><td>Oms/t( 烷 基 苯</td></tr><tr><td></td><td></td><td>裂</td><td>烷</td><td></td><td></td><td></td></tr><tr><td></td><td></td><td>烷 基</td><td>苯 生 产 合 成 涤 剂</td><td></td><td>- 10.</td><td>0ms/t( 产 品 》</td></tr><tr><td></td><td></td><td></td><td>洗</td><td></td><td></td><td></td></tr><tr><td></td><td colspan="3" rowspan="2">成 能 肪 酸 工 业</td><td colspan="3"></td><td></td><td></td><td>200.</td><td>0ms/t( 产 咸 》</td></tr><tr><td>E</td><td colspan="3" rowspan="2">合 | 湿 法 生 产 纤 维 板 工 业</td><td></td><td></td><td></td></tr><tr><td>7</td><td colspan="3"></td><td></td><td>30,</td><td>0ma/t( 板 》</td></tr><tr><td rowspan="3">E</td><td></td><td></td><td></td><td></td><td>10.</td><td>0ms/t( 甘 蓬 )</td></tr><tr><td colspan="4">甘 蕃 制 糠</td><td></td><td rowspan="3">|</td><td></td><td></td><td></td></tr><tr><td></td><td></td><td>甜 菜</td><td>制 糖</td><td></td><td>4.</td><td>Oms/t( 甜 菜 》</td></tr><tr><td rowspan="3"></td><td></td><td>猪 盐</td><td>湿 皮</td><td></td><td>60.</td><td>0ms/t( 原 皮 》</td></tr><tr><td></td><td colspan="3">&lt;HWH</td><td></td><td>100.</td><td>0my/t( 原 皮 》</td></tr><tr><td></td><td colspan="3"></td><td></td><td>150.</td><td>Oms/t( 原 皮 》</td></tr><tr><td></td><td>|</td><td></td><td>以 玉 米 为 原 料</td><td></td><td>100.</td><td>0my/t( 酒 精 「</td></tr><tr><td></td><td colspan="2" rowspan="2">. 弹 沥</td><td>以 薰 类 为 厚 料</td><td></td><td>80.</td><td>Omy/t( 酒 精</td></tr><tr><td>10</td><td colspan="3">以 淅 殓</td><td colspan="3" rowspan="2">糖 蜜 为 原 料 门 a 一</td><td colspan="2"></td><td></td><td>70.</td><td>Oms/t( 酒 精 》</td></tr><tr><td></td><td colspan="3"></td><td>一</td><td>一</td><td>a
+ 一 一</td></tr><tr><td colspan="4">怪 啤 酒 行 业 ( 排 水 量 不 包 括 麦 芽 水 都 分 》</td><td></td><td>16.</td><td>Om3/t( 唱 酒 ,</td></tr><tr><td>11</td><td>| 常</td><td colspan="2">盐 工 业 '</td><td></td><td>5.</td><td>Omi/t( 产 品 》 .</td></tr><tr><td>疃</td><td colspan="3">硫 酸 工 业 ( 水 洗 法 》 〈 国</td><td></td><td>15.</td><td>0m3/t( 硫 酸 》</td></tr><tr><td rowspan="2"></td><td></td><td colspan="3" rowspan="2">「 「 苎 麻 脱 胶 工 业</td><td colspan="3"></td><td></td><td></td><td>500ms/t( 原 麻 》</td></tr><tr><td></td><td></td><td>750ms/t( 精 干 麻 》</td></tr></table>
+-----------------------------------
+280
+
+|
+
+GB 8978 一 1996
+
+表 .5( 缈 )
+<table><thead><th colspan="2">行 业 类 别 .</th><th></th><th colspan="2" rowspan="2">最 高 允 许 排 水 量 或 最 低 允 许 水 重 复 利 用 率 300. Oma/t( 纤 维 )</th></thead><thead><th></th><th>短 纤 维 ( 棉 型 中 长 纤 维 、 毛 型 中</th><th>长 纤 维 )</th><th colspan="2"></th></thead><tr><td>aw</td><td>“</td><td></td><td>[ T aane</td><td>一</td></tr><tr><td></td><td></td><td></td><td></td><td>E</td></tr><tr><td rowspan="4"></td><td>s 一</td><td>一</td><td>F</td><td>rass 一</td></tr><tr><td></td><td>ss 一</td><td>一</td><td>F T isaruses</td><td>一</td></tr><tr><td></td><td>土 雪 素</td><td>,</td><td>1 300ms/t( 土 霜</td><td>素 )</td></tr><tr><td></td><td></td><td></td><td>1 900ms/t( 四 环</td><td>素 )</td></tr><tr><td>盟</td><td></td><td></td><td>9 200ms/t( 洁 霜</td><td>素</td></tr><tr><td>跷</td><td></td><td></td><td>3 000ms/t( 金 霜</td><td>素 》</td></tr><tr><td>命 H</td><td></td><td></td><td>“20 庆</td><td>400ms/t( 大 震 素 )</td></tr><tr><td>网</td><td></td><td></td><td>1 维 生</td><td>200m3/t( 素 C》</td></tr><tr><td>翔 跷</td><td></td><td></td><td>, 2 700ms/t( 氯 雪</td><td>素 》</td></tr><tr><td rowspan="6">趴 资</td><td></td><td></td><td></td><td>2 新 诺</td><td>000ma/t( 朋 )</td></tr><tr><td></td><td></td><td></td><td>3 $00ms/t( 维 生</td><td>紊 B 》</td></tr><tr><td></td><td></td><td></td><td>哆0m3/t(安乃近)</td><td></td></tr><tr><td></td><td></td><td>“ 750ma/t( 非 那 西</td><td>汀 )</td></tr><tr><td></td><td></td><td></td><td>.2 呋 喃</td><td>400masyt( 唑 酮 》</td></tr><tr><td></td><td></td><td></td><td>1 200ma/t( 卵 暂</td><td>团 ) 。</td></tr><tr><td rowspan="6">医 H 跷 沓 源 炼 动</td><td>s 一 一</td><td>一 一</td><td>[ 一 rra</td><td></td></tr><tr><td></td><td>甲 基 对 硫 磷 ( 水 相 法 ) ““</td><td>`</td><td>300ma/t( 产 品 》</td><td></td></tr><tr><td></td><td>对 硫 磷 (PzSs 法 7““</td><td></td><td>500ms/t( 产 品</td><td></td></tr><tr><td></td><td>对 硫 磷 (CPSCl 法 7““</td><td></td><td>550ms/t( 产 品</td><td></td></tr><tr><td></td><td>敌 敌 畏 ( 敌 百 虫 碱 解 法 〉</td><td>′</td><td>200ms/t( 产 品 )</td><td></td></tr><tr><td></td><td></td><td></td><td></td><td>rrpresszran</td></tr><tr><td></td><td>马 拉 疏 磷</td><td></td><td>700ms/t( 产 品 )</td><td>`</td></tr><tr><td></td><td>除 草 醛 “</td><td></td><td>5ms/t( 产 品 》</td><td></td></tr><tr><td></td><td>五 氯 酚 伴 ,</td><td></td><td>2ms/t( 产 品 》</td><td></td></tr><tr><td></td><td>五 氯 酚 ′</td><td></td><td>4ma/t( 产 品 》</td><td></td></tr><tr><td></td><td>s5 一 一</td><td></td><td></td><td>TTars 一 r 一 r 一</td></tr><tr><td></td><td>绿 麦 隆 ( 以 Fe 粉 还 原 )</td><td></td><td>2ms/t( 产 品 )</td><td></td></tr><tr><td colspan="3">绿 麦 隆 ( 以 NasS 还 原 》 .</td><td>3ms/t( 产 品 )</td><td></td></tr><tr><td colspan="3">火 力 发 电 工 业</td><td>3.5ma/(MWhp)</td><td>「 |</td></tr></table>
+-----------------------------------
+281
+
+`
+
+GB 「8978 一 1996
+
+表 「5( 完 )
+
+最 商 允 许 排 水 重 或 最 低 允 许 水 重 复 利 用 率
+
+5ms/1 000m(35mm 胶 片 》 冷 却 汞 的 水 循 环 利 用 率 95 史
+-----------------------------------
+x
+
+产 品 拳 100% 浓 度 计 不 包 挂 P:Se,PSClsyPCls
+
+原 料 生 产 废 水 。
+
+监 测 点
+
+5
+
+5.1 采 样
+
+4
+
+|
+
+采 桦 点 应 接 4. 2. 1.1 及 2.1. 2 第 一 . 二 类 污 染 物 排 放 口 的 规 定 设 置 , 刁`丑瑾饕丨暴…灾jIz【〕鲤丕乡遭丁设壹誓邑着捍]羞!〔口秽】守 、 污 水 水 量 计 量 装 晓 和 污 水 比 例 采 样 装 置 。
+-----------------------------------
+志
+
+率 一 工 业 污 水 按 生 产 周 期 确 定 监 测 频 率 。 生 产 周 期 在 8h 的 , 每 2h 采 样 一 次 ; 生 产 周 期 大 于 8h 的 , 样 一 次 。 其 他 污 水 梁 样 ,24h 不 少 于 2 次 。 最 高 允 许 排 放 浓 度 接 日 均 值 计 算 。 1 “5.3 排 水 量 以最{高允}午攫…|】…7j(量亘墨锰1扇【低爻l堇i午水重复禾'j用鄄着董鄄lE控争丨冒‖，j湟〕阻【月j鲫蕙值卡丨_。
+
+5. 2 采 样 频
+-----------------------------------
+以 内
+
+钗
+
+弘
+
+采
+
+|
+
+5.4 统 计
+
+企 业 的 原 材 料 使 用 量 等 , 以 法 定 月 报 表 或 年 报 表 为 准 。 测 定 方 法 本 标 准 采 用 的 测 定 方 法 儿 表 6。
+-----------------------------------
+产
+
+量 . 产 品
+
+5.5
+
+,
+
+|
+
+′
+
+`
+
+|
+
+|
+<table><tr><td>1</td><td>| 总 江</td><td></td><td></td><td>冷 原 子 易 收 光 度</td><td>法</td><td></td><td></td><td></td><td></td><td></td><td>GB 7468 一 87</td><td></td></tr><tr><td>2</td><td>| 烷 基 江</td><td></td><td></td><td colspan="7">气 相 色 谐 法</td><td>GB/T 14204-</td><td>一 93</td></tr><tr><td>3</td><td>| 总 镐</td><td></td><td></td><td>原 子 呆 收 分 光</td><td>光 度 法</td><td></td><td></td><td></td><td></td><td></td><td>GB 7475 一 87</td><td></td></tr><tr><td>4</td><td>| 总 铭</td><td></td><td></td><td>高 锰 酸 铃 氧 化 -</td><td>二 苯</td><td>碳 酯</td><td>二</td><td>肼</td><td>分 光 光 度 法</td><td></td><td>GB 7466 一 87</td><td></td></tr><tr><td>5</td><td>| 六 价 银</td><td></td><td></td><td>二 苯 碳 酯 二 肼</td><td>分 光</td><td>光 度 法</td><td></td><td></td><td></td><td></td><td>GB 7467 一 87</td><td></td></tr><tr><td>6</td><td>| 总 琴</td><td></td><td></td><td colspan="6">二 乙 基 二 硫 代 氮 基 甲 酸 银 分 光 光 度 法</td><td></td><td>GB 7485 一 87</td><td></td></tr><tr><td>7</td><td>| 总 铣</td><td></td><td></td><td>原 子 易 收 分 光</td><td>光 度 法</td><td></td><td></td><td></td><td></td><td></td><td>GB 7475 一 87</td><td></td></tr><tr><td>8</td><td>| 总 镍</td><td></td><td></td><td>纱壁力刍j京子'懿五收爹"童`台j′亡度?去</td><td></td><td></td><td></td><td></td><td></td><td>.|</td><td>GB 11912 一</td><td>89 ,</td></tr><tr><td></td><td></td><td></td><td></td><td>丁 二</td><td>酮疃丐寮夕贵j'亡j′f二 竞寻去</td><td></td><td></td><td></td><td></td><td></td><td>GB 19910 一</td><td>89</td></tr><tr><td>9</td><td>| 苯 并 (a) 芘</td><td></td><td></td><td>乙酰化蔷浠霍叁丕'羞)亨;析蒙芝j'【藿多〕\j'!云贡卅羞度薯隼裘丨j</td><td></td><td></td><td></td><td></td><td></td><td></td><td>GB 11895 一</td><td>89</td></tr><tr><td>10</td><td>| 总 镇</td><td></td><td></td><td>活 佐 炭 呆 附 - 铬</td><td>天 菁 S</td><td>光</td><td>度</td><td>法</td><td></td><td></td><td>12</td><td></td></tr><tr><td>11</td><td>| 总 银</td><td></td><td></td><td>头 焰 原 子 服 收</td><td>分 光</td><td>光 度 法</td><td></td><td></td><td></td><td></td><td>GB 11907 一</td><td>89</td></tr><tr><td>12</td><td>| 总 a</td><td>-</td><td></td><td>物 理 法</td><td></td><td></td><td></td><td></td><td></td><td></td><td>2</td><td></td></tr><tr><td>13</td><td>| 总 B</td><td></td><td></td><td colspan="7">物 理 法</td><td>2》</td><td>,</td></tr><tr><td>14</td><td>| pH 值</td><td></td><td></td><td>玲 璃 电 极 法 .</td><td></td><td></td><td></td><td></td><td></td><td></td><td>GB 6920 一 86</td><td>89,</td></tr><tr><td>15</td><td>| 色 度</td><td></td><td></td><td colspan="7">稀 释 倾 数 法</td><td>GB 11903 一</td><td></td></tr><tr><td>16</td><td>| 悬 浮 物</td><td>′</td><td></td><td colspan="6" rowspan="2">重 量 法 稀 释 与 接 种 法 重 等 酸 钾 紫 外 光 度 法</td><td></td><td>GB 11901 一</td><td>89</td></tr><tr><td>17</td><td>| 生 化 需 氧 量</td><td>(BODe)〉</td><td></td><td colspan="6"></td><td></td><td>GB 7488 一 87 . 待 颁 布</td><td></td></tr><tr><td>282</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr></table>
+-----------------------------------
+一 | ,
+
+,
+
+1
+
+^
+
+1
+
+1
+
+GB 8978 一 1996
+
+表 6( 续 )
+<table><tr><td></td><td>化 学 需 氧 量 (COD5</td><td>重 铭 酸 钾 法</td><td></td><td>GB 11914 一 89</td></tr><tr><td></td><td>石 润 类</td><td>红 外 光 度 法</td><td></td><td>GB/T 16488 一 1996</td></tr><tr><td></td><td>动 植 物 油</td><td>红 外 光 度 法</td><td></td><td>GB/T 16488 一 1996</td></tr><tr><td></td><td>挥 发 配 、</td><td>蒸 伟 后 用 4- 氮</td><td>替 比 林 分 光 光 度 法</td><td>GB 7490 一 87</td></tr><tr><td></td><td>总 氯 化 物</td><td>硝 酸 银 滴 定 法</td><td></td><td>GB 7486 一 87</td></tr><tr><td></td><td>硫 化 物</td><td>亚 甲 基 蓝 分 光</td><td></td><td>GB/T 16489 一 1996</td></tr><tr><td rowspan="2"></td><td>氢 氮</td><td>钠 氏 试 剂 比 色 法</td><td></td><td>GB 7478 一 87</td></tr><tr><td></td><td></td><td>蒸 健 和 滴 定 法</td><td></td><td>GB 7479 一 87</td></tr><tr><td></td><td>氟 化 物</td><td>高 子 选 拂 电 楚 法</td><td></td><td>GB 7484 一 87 `</td></tr><tr><td></td><td>磷 酸 盐</td><td>钿 蓝 比 色 法</td><td></td><td>1)</td></tr><tr><td></td><td>甲 醛</td><td>乙 酰 丙 霁 分 光 光</td><td></td><td>GB 13197 一 91</td></tr><tr><td></td><td>苯 胺 类</td><td>N-(- 蒙 基 ) 乙 二</td><td>氮 分 光 光 度 法</td><td>GB 11889 一 89</td></tr><tr><td></td><td>硝 基 苯 类</td><td>还 原 - 偶 氨 比 色</td><td>分 光 光 度 法</td><td>1</td></tr><tr><td rowspan="2"></td><td>阴 离 子 表 面 活 性 剂 「</td><td>亚 甲 蓝 分 光 光 度</td><td></td><td>GB 7494 一 87</td></tr><tr><td></td><td>总 铜</td><td>原 子 服 收 分 光 光</td><td></td><td>GB 7475 一 87</td></tr><tr><td></td><td></td><td>二 乙 基 二 硫 化 氧</td><td>酸 销 分 光 光 度 法</td><td>GB 7474 一 87</td></tr><tr><td rowspan="2"></td><td>总 锋</td><td>原 子 服 收 分 光 光</td><td></td><td>GB 7475 一 87</td></tr><tr><td></td><td></td><td>双 疑 腺 分 光 光 度</td><td></td><td>GB 7472 一 87</td></tr><tr><td rowspan="2"></td><td>总 锭</td><td>火 焰 原 子 炜 收 分</td><td>度 法</td><td>GB 11911 一 89</td></tr><tr><td></td><td></td><td>高 碘 酸 铃 分 光 兆</td><td></td><td>GB 11906 一 89</td></tr><tr><td></td><td>彩 色 显 影 剂</td><td>169 成 色 剂 法</td><td></td><td>82</td></tr><tr><td></td><td>显 影 剂 及 氯 化 物 总 重</td><td>,| 碘 - 淀 粉 比 色 法</td><td></td><td>3 .</td></tr><tr><td></td><td>元 素 磷</td><td>磷 铃 蓝 比 色 法</td><td></td><td>3)</td></tr><tr><td></td><td>有 机 磷 农 药 ( 以 P 计 )</td><td>有 机 磷 农 药 的 测</td><td></td><td>GB 13192 一 91</td></tr><tr><td></td><td>乐</td><td></td><td></td><td></td></tr><tr><td></td><td>果</td><td>气 相 色 谱 法</td><td></td><td>GB 13192 一 91</td></tr><tr><td></td><td rowspan="2">对 硫 磷 甲 基 对 硫 磴 马 拉 疏 磐</td><td>气 相 色 谱 法</td><td></td><td>GB 13192 一 91</td></tr><tr><td></td><td></td><td>气 相 色 谱 法</td><td></td><td>GB 13192 一 91</td></tr><tr><td></td><td>敏 酚 酝</td><td>气 相 色 谱 法</td><td></td><td>GB 13192 一 91</td></tr><tr><td rowspan="2"></td><td>五 及 五 氯 信</td><td>气 相 色 谱 法</td><td></td><td>GB 8972 一 88</td></tr><tr><td></td><td>( 以 五 氢 酚 计 )</td><td>藏 红 T 分 光 光 度</td><td></td><td>GB 9803 一 88</td></tr><tr><td rowspan="2"></td><td></td><td>可 服 附 有 机 卤 化 物</td><td>微 库 仑 法</td><td></td><td>GB/T-15959 一 95</td></tr><tr><td>(AOX2( 以 CL 计 》</td><td></td><td></td><td></td></tr><tr><td></td><td>三 氯 甲 烯</td><td>气 相 色 谱 法</td><td></td><td>待 颂 布</td></tr><tr><td></td><td>四 氮 化 碳</td><td>气 相 色 谱 法</td><td></td><td>待 颁 布</td></tr><tr><td></td><td>三 氯 乙 烧</td><td>气 相 色 谱 法</td><td></td><td>待 颁 布 .</td></tr><tr><td></td><td>四 氯 乙 烯</td><td>气 相 色 谱 法</td><td></td><td>待 颁 布</td></tr><tr><td></td><td>柘</td><td>气 相 色 谐 法</td><td></td><td>GB 11890 一 89</td></tr><tr><td></td><td>甲 柒</td><td>气 相 色 谐 法</td><td></td><td>GB 11890 一 89</td></tr><tr><td></td><td>乙 荼</td><td>气 相 色 谱 法</td><td></td><td>GB 11890 一 89</td></tr><tr><td>]</td><td>邻 - 二 甲 荼</td><td>气 相 色 谱 法</td><td></td><td>GB 11890 一 89</td></tr><tr><td></td><td>对 - 二 甲 荼</td><td>气 相 色 谱 法</td><td></td><td>GB 11890- 一 89</td></tr><tr><td></td><td>间 - 二 甲 苯</td><td>气 相 色 谱 法</td><td></td><td>. GB 11890 一 89</td></tr><tr><td></td><td>氯 苯</td><td>气 相 色 谱 法</td><td></td><td>待 颂 布</td></tr><tr><td></td><td>邻 - 二 氯 苦</td><td>气 相 色 谱 法</td><td></td><td>待 颂 布</td></tr><tr><td></td><td>对 - 二 氯 苯</td><td>气 相 色 谱 法</td><td></td><td>待 颂 布</td></tr><tr><td></td><td>对 - 硝 基 气 萄</td><td>气 相 色 谱 法</td><td></td><td>GB 13194~ 一 91</td></tr></table>
+-----------------------------------
+283
+
+GB 8978 一 1996
+
+表 6( 完 》
+<table><tr><td></td><td>2,4- 二 硝 基 氯 苯</td><td></td><td>气 相 色 谕 法</td><td></td><td></td><td></td><td></td><td></td><td></td><td>GB 13194 一</td><td>91</td></tr><tr><td>59</td><td>英 配</td><td></td><td>气 相 色 谱 法</td><td></td><td></td><td></td><td></td><td></td><td></td><td>待 颁 布</td><td></td></tr><tr><td>60</td><td>间 - 甲 配</td><td></td><td>气 相 色 谱 法</td><td></td><td></td><td></td><td></td><td></td><td></td><td>待 颁 布</td><td></td></tr><tr><td>61</td><td>2,4- 二 氯 酣</td><td></td><td>气 相 色 谱 法</td><td></td><td></td><td></td><td></td><td></td><td></td><td>待 颁 布</td><td></td></tr><tr><td>62</td><td>2,4,6- 三 氯 酯</td><td></td><td>气 相 色 谱 法</td><td></td><td></td><td></td><td></td><td></td><td></td><td>待 颁 布</td><td></td></tr><tr><td>63</td><td>邻 苯 二 甲 戬 二 丁 酮</td><td></td><td>气 相 液 相 色 谱 法</td><td></td><td></td><td></td><td></td><td></td><td></td><td>待 制 定</td><td></td></tr><tr><td>64</td><td>邻 苯 二 甲 酸 二 辛 酬</td><td></td><td>气 相 , 波 相 色 谱 法</td><td></td><td></td><td></td><td></td><td></td><td></td><td>待 刺 定</td><td></td></tr><tr><td>65</td><td>丙 烯 腑 -</td><td></td><td>气 相 色 谱 法</td><td></td><td></td><td></td><td></td><td></td><td></td><td>待 刷 定</td><td></td></tr><tr><td></td><td></td><td></td><td>2,3- 二 氧 基 节 荧</td><td>光 ,</td><td></td><td></td><td></td><td></td><td></td><td>GB 11902</td><td>一 89</td></tr><tr><td>66</td><td>总 硕</td><td></td><td></td><td>法</td><td></td><td></td><td></td><td></td><td>′</td><td></td><td></td></tr><tr><td>67</td><td>粪 大 肠 茧 群 数</td><td></td><td>多 管 发 酶 法 ,</td><td></td><td></td><td></td><td></td><td></td><td></td><td>1</td><td></td></tr><tr><td>68</td><td>余 氢 重</td><td></td><td>N,N- 二 乙 基 -1,4-</td><td>苯</td><td></td><td>二 腑</td><td>分</td><td>光</td><td>光 度 法</td><td>GB 11898</td><td>一 89</td></tr><tr><td></td><td></td><td></td><td>N,N- 二 乙 基 -1,4-</td><td>苯</td><td></td><td>二 胺</td><td>滑</td><td>定 法</td><td></td><td>GB 11897</td><td>一 89</td></tr><tr><td></td><td>总 有 机 碳 (TOC)</td><td></td><td>非 色 散 红 外 货 收</td><td>法</td><td></td><td></td><td></td><td></td><td></td><td>待 制 定</td><td></td></tr><tr><td></td><td></td><td></td><td>直 接 紫 外 荧 光 法</td><td></td><td></td><td></td><td></td><td></td><td></td><td>待 制 定</td><td></td></tr><tr><td rowspan="4"></td><td></td><td>注 : 暂 采 用 下 列 方 法 , 待</td><td>国 家 方 法</td><td>标 准 发 布 后 , 执 行</td><td>国 家</td><td></td><td>标 准 。</td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>1 (7j【牙i1】′夏重7j&lt;矗姿[萼蠹丨喜绶}薯箩于〕孛}`z与(奠拿蔓三′暑L呓))〉，中国雾F量j薏綦`弋暴晏j壹蠢量T鲁I′镳(吏荃、土,1曼)8蹇)冕|…′′</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td>2)《 环 境 监 测 技 术 规 范 (</td><td>放 射 性 部</td><td>分 , 国 家 环 境 保</td><td>护 局 。</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td>3》 详 见 附 录 D。</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr></table>
+-----------------------------------
+6 标 准 实 施 监 督
+
+6. 1 本 标 准 由 县 级 以 上 人 民 政 府 环 境 保 护 行 政 主 管 郡 门 负 责 监 督 实 施 。
+
+6. 2 省 、 自 治 区 、 直 辖 市 人 民 政 府 对 执 行 国 家 水 污 染 物 排 放 标 准 不 能 保 证 达 到 水 环 境 功 能 要 求 时 , 可 以 制 定 严 于 国 家 水 污 染 物 排 放 标 准 的 地 方 水 污 染 物 排 放 标 准 , 并 报 国 家 环 境 保 护 行 政 主 管 部 门 备 案 。
+
+284
+
+一
+-----------------------------------
+录 ( 标 准 的 附 录 》
+
+附
+
+A
+
+关 于 排 放 单 位 在 同 一 个 排 污 口 排 放 两 种 或 两 种 以 上 工 业 污 水 , 且 每 种 工 业 污 水 中 同 一 污 染 物 的 排 放 标 准 又 不 同 时 , 可 采 用 如 下 方 法 计 算 混 合 排 放 时 该 污 染 物 的 最 高 允 许 排 放 浓 度 (CaA )。
+<table><tr><td></td><td>逵</td><td>C…Q…}'′…</td><td></td></tr><tr><td></td><td>YZQr,</td><td></td><td>《A1)</td></tr></table>
+-----------------------------------
+式 中 : Ca$ 一 一 混 合 污 水 某 污 染 物 最 高 允 许 排 放 浓 度 ,mg/L ;
+
+Ci 一 一 不 同 工 业 污 水 栋 污 染 物 最 高 允 许 排 放 浓 度 ,mg/L ;
+
+Q: 一 一 不 同 工 业 的 最 高 允 许 排 水 量 ,m:/t( 产 品 》
+
+( 本 标 准 未 作 规 定 的 行 业 , 其 最 高 允 许 排 水 量 由 地 方 环 保 部 门 与 有 关 部 门 协 商 确 定 ) ; Y 一 一 分 别 为 某 种 工 业 产 品 产 量 (t/d , 以 月 平 坚 计 。
+-----------------------------------
+附 “录 B
+
+( 标 准 的 附 录 》
+
+工 业 污 水 污 染 物 最 高 允 许 排 放 负 荷 计 算 ,
+<table><tr><td></td><td></td><td>历 8 二</td><td>兰 国 江</td><td>10 一</td></tr><tr><td>沥 中 :</td><td>a 一</td><td>一 工 业 污 水 污 染 物 最 高 允 许 排 放 负 荷</td><td>,kg/t(</td><td>产 品 );</td></tr><tr><td></td><td>C-</td><td>一 菪 污 染 物 最 高 允 许 排 放 泥 度 ,mg/L3</td><td></td><td></td></tr><tr><td></td><td>Q 一</td><td>一 棠 工 业 的 最 高 允 许 排 水 量 ,ms/t( 产</td><td>品 )。</td><td></td></tr></table>
+-----------------------------------
+附
+
+录
+
+C ( 标 准 的 附 录 )
+
+某 污 染 物 最 高 允 许 年 排 放 总 量 的 计 算 :
+
+`
+
+印 二 一 菪 污 染 物 最 高 允 许 年 排 放 量 ,t/a ; 一 树 污 染 物 最 高 允 许 排 放 负 荷 ,kg/t( 产 一 一 核 定 的 产 品 年 产 量 ,t( 产 品 )/a。
+-----------------------------------
+式 中 : L& 一 Ta
+
+工
+
+X 切 江 水 0
+
+品 )
+
+一
+
+“ 录 D ( 标 准 的 附 录 》
+
+附
+
+D1 “ 彩 色 显 影 剂 总 量 的 测 定 一 一 169 成 色 剂 法
+
+洗 片 的 缇 合 废 水 中 存 在 的 彩 色 显 影 剂 很 难 检 测 出 来 , 国 内 外 介 绍 的 方 法 一 舫 都 仅 适 用 于 显 影 水 洵 水 中 的 显 影 剂 检 测 。 本 方 法 可 以 快 速 地 测 出 综 合 废 水 中 的 彩 色 显 影 剂 。 当 废 水 中 同 时 存 在 多 种 彩 色 显 影 剂 时 , 用 此 法 测 出 的 量 是 多 种 彩 色 显 影 剂 的 总 量 。
+
+D1.1 原 理
+
+|
+
+电 影 洗 片 度 水 中 的 彩 色 显 影 剂 可 被 氧 化 剂 氧 化 , 其 氧 化 物 在 碱 性 溶 液 中 逼 到 水 溶 性 成 色 剂 时 , 立 即 偶 合 形 成 染 料 。 不 同 结 构 的 显 影 剂 (TSS,CD-2,CD-3) 与 169 成 色 剂 偶 合 成 染 料 时 , 其 最 大 君 收 的 光 谱 波 长 均 在 550nm 处 , 并 在 0 一 10mg/L 范 围 内 符 合 比 耳 定 律 。
+
+《CC] 》
+
+285
+-----------------------------------
+GB 8978 一 1996 以 TSS 为 例 , 反 应 如 下 【′I『〔二_亓辰_(二17I_I35 C “ 门 Ed d NH:, O “ 白 C___2′}` G 一 N SO 八 O 〇 aH H5(二2 (二2丨_I5 岂〕 (TSS) 《169 成 色 剂 ) H:C, >NCCyN-c__c _cuHtu HsC。 』二 | 加 入 人 O 口 外 汀 一 ( 品 红 染 料 ) D1.2 仪 器 及 设 备 721 型 或 类 似 型 号 分 光 光 度 计 及 lcm 比 色 橘 50mL、100mL 芝 1000mL. 的 容 量 瓶 〉 _D1.3 试 剂 | ] D1.3. 1 0.55% 成 色 剂 : 称 取 0. 5g169 成 色 剂 置 于 有 100mL 蒸 伟 水 的 热 杯 中 。 在 搅 拌 下 , 加 人 1 一 2 粒 复 氧 化 钠 , 使 其 完 全 溶 解 。 | , D1. 3. 2 混 合 氧 化 剂 溶 液 : 将 CuSO:,5H。O0. 5g,Na:COs5. 0g,NaNOu5. 0g 以 及 NH4C15. 0g 依 次 溶 解 ] 于 100mL 熙 馏 水 中 。 ' 1 D1. 3. 3 标 准 滨 液 : 精 确 称 取 照 相 级 的 彩 色 显 影 剂 ( 生 产 中 使 用 最 多 的 一 种 )100mg , 溶 解 于 少 量 蒸 健 水 中 。 其 已 滨 人 100mgNasSO; 作 保 护 剂 , 移 人 1L 容 量 瓶 中 , 并 加 蒸 健 水 至 刻 度 。 此 标 淮 溶 液 相 当 0. 1mg/mL , 必 须 在 使 用 前 配 制 。 | | 言
+-----------------------------------
+|
+
+D1.4 步 骤
+
+D1.4. 1 标 准 幼 线 的 制 作
+
+在 6 个 5omL 容 量 瓶 中 , 分 别 加 人 以 下 不 同 量 的 显 影 剂 标 准 液
+<table><tr><td>口</td><td>〇</td><td></td></tr><tr><td>一</td><td>r</td><td>口</td></tr><tr><td>G</td><td>G</td><td></td></tr><tr><td>。 c</td><td>00</td><td>皇</td></tr><tr><td>Bay</td><td>。 寿</td><td>c6</td></tr><tr><td>E</td><td>L</td><td>口</td></tr></table>
+-----------------------------------
+286
+
+|
+
+I 氨 1
+
+CB 8978 一 1996
+
+以 上 6 个 容 量 瓶 中 皆 加 人 ImL 成 色 剂 溶 液 , 并 用 燃 馏 水 加 至 刻 度 。 分 别 加 人 1mL 混 合 氧 化 剂 溶 液 , 播 匀 。 在 5min 内 在 分 光 光 度 计 550nm 处 测 定 其 不 同 试 样 生 成 染 料 的 光 宿 度 ( 以 编 号 0 为 零 , 绘 制 不 同 显 影 剂 含 量 的 相 应 光 密 度 曲 线 。 横 坐 标 为 2,4,6,8,10mg/-。
+
+D1.4.2-
+-----------------------------------
+水 样 的 测 定
+
+「
+
+“
+
+“
+
+敲 2 份 水 样 ( 一 般 为 20mL) 分 别 置 于 两 个 50mL 的 容 量 瓶 中 , 一 个 为 测 定 水 样 , 另 一 个 为 空 白 试 验 。 在 前 者 测 定 水 样 中 加 ImL 成 色 剂 溶 液 。 然 后 分 别 在 两 个 瓶 中 加 蒸 饶 水 至 刻 度 , 其 他 步 骤 同 标 准 曲 线 的 制 作 。 以 空 白 液 为 零 , 测 出 水 样 的 光 密 度 , 7…E才萝墓薯雀曲乡>」届中查出芽′】目应的箩I重三度
+
+D1.5 _ 计 算
+
+从 标 准 曲 线 中 查 出 的 浸 度 X 张 二 废 水 中 彩 色 显 影 剂 的 苦 量 CmgyL2 e GD) 式 中 : a 一 一 为 废 水 取 样 的 mL 数 。
+
+式 中 : a 一 一 为 废 水 取 样 的 mL 数 。
+
+D1.6 注 意 事 项
+
+D1.6. 1 生 成 的 品 红 染 料 在 8min 之 内 光 密 度 是 稳 定 的 , 己耆互丕〔宜在亘矗墅料生ji蔓雇后 5ml】l之内泣墅丨定
+
+D1.6.2 “ 本 方 苴 不 包 括 黑 白 显 影 剂 。
+-----------------------------------
+D2 显 影 剂 及 其 氧 化 物 总 量 的 测 定 方 法
+
+电 影 洗 印 废 水 中 存 在 不 同 量 的 赤 血 盐 漂 白 液 , 将 排 放 的 显 影 剂 部 分 或 全 部 氧 化 , 因 此 废 水 中 一 种 情 况 是 存 在 显 影 剂 及 其 氯 化 物 , 另 一 种 情 况 是 只 存 在 大 量 的 氧 化 物 而 无 显 影 剂 . 本 方 法 测 出 的 结 果 在 第 一 种 情 况 下 是 废 水 中 显 影 剂 及 氧 化 物 的 总 量 , 在 第 二 矛'沟丨】1~言【况下是j麦水中j京7f…重显影雯f[j氧化凸晕夕J曲l(〕芊'…蕃′量 D2. 1 原 理
+
+,
+
+通 常 使 用 的 显 影 剂 ; 大 都 具 有 对 苯 二 酣 、 对 氮 基 酚 . 对 苯 二 脓 类 的 绪 构 。 经氧化水夕脖后者丨S舍畦孝寻…熹〕j〉(士苯 二 酒 。 利 用 溶 或 氯 滨 将 显 影 剂 氧 化 成 显 影 剂 氧 化 物 , 再 用 碘 量 法 进 行 碘 - 淀 粉 比 色 法 测 定 。
+-----------------------------------
+以 米 吐 尔 为 例 :
+
+OH 十 H:O 十 Br, 一 一 十CH3NHz十2H+ 十 2Br“ NHCHy
+
+酮 是 较 强 的 氧 化 剂 。 在 酸 性 溶 液 中 , 乙'莨篓鹳…蓖子氟菁踵量〕…f三j京寅(〕L麦廷童苎 醉 为 对 苯 二 酚 。 所查r与蜃出l莹_〈]兰畜'量藿碾婪 可 用 淀 粉 发 生 蓝 色 进 行 比 色 测 定 。 `
+
+n OH 匕闫 十 2H+ 十 2Ir I 十 〇 「 OLH O
+
+D2.2 仪刁`妻晏贡丨聋]}鸯艺备
+
+:721 或 类 似 型 号 分 光 光 度 计 及 2cm 比 色 果 , 佩 温 水 浴 锅 ,50mL 容量多丨【瓦,2!〕[!L、5mL丕′(1()mL寰刨度吸
+-----------------------------------
+管
+
+D2.3 试 剂
+
+D2: 3.1 0. 1N 滨 酸 钾 - 滨 化 钾 溶 液 : 称 取 2. 8g 滨 酸 钾 和 4. 呃溴化钾 用 蒸 馏 水 稀 释 至 LL。
+
+D2.3. 2 1 : 1 磷 酸 : 磷 酸 加 一 债 蒸 馋 水 。
+
+D2.3. 3 , 饱 和 氯 化 钠 溶 液 : 称 取 40g 氯 化 钠 , 溶 于 100mL 蒸 馏 水 中 。
+
+D2.3. 4 20% 溴 化 钾 溶 液 : 称 取 20g 溶 化 钾 , 溶 于 100mL 蒸 馏 中 。
+-----------------------------------
+水
+
+D2-.3. 5 55% 苯 酚 溶 液 : 取 苯 酚 5mL, 溶 于 100mL 燃 馏 水 中 。
+
+D2.3.6 55% 碘 化 钾 溶 液 : 称 取 5g 碘 化 钾 , 溶 于 100mL 蒸 傲 水 中 。 ( 用 时 配 制 , 放 暗 处 )
+
+。
+
+287
+
+GB 8978 一 1996
+
+D2.3.7 0. 2% 涉 粉 温 液 : 称 1g 可 温 性 涉 粉 , 加 少 量 水 揽 匀 , 注 人 沸 腾 的 500mL 水 中 , 继 续 焰 沸 5min。 夏 季 可 加 水 杨 酸 0. 2g。
+
+_
+
+D2. 3.8 配 制 标 准 液 : 准 确 称 取 对 苯 二 酚 ( 分 子 量 为 110. 11g0. 276g , 如 果 是 照 相 级 米 吐 尔 ( 分 子 量 为 344. 408) 可 称 取 0. 861g , 照 相 级 TSS( 分 子 量 为 262. 33g) 可 称 取 0. 656g ,( 或 根 据 所 使 用 药 品 的 分 子 量 及 纯 度 另 行 计 算 ) , 溶 于 25mL 的 6NHCI 中 , 移 人 250mL 容 量 瓶 中 , 用 蒸 健 水 加 至 刻 度 。 此 溶 液 泥 度 为 0. 010 0M 。
+-----------------------------------
+骑
+
+D2.4 步
+
+|
+
+国
+
+医
+
+D2. 4.1 标 准 曲 线 的 制 作
+
+“
+
+D2. 4. 1. 1 取 标 准 液 25mL , 加 蒸 健 水 稀 释 至 1 000mL , 此 液 浓 度 为 0. 000 25M , 即 每 毫 升 含 对 苯 二 酝 0. 25mol( 甲 液 ) , ` '
+
+D2.4. 1.2 取 甲 液 25mL 用 熙 傻 水 稀 释 至 250mL., 此 溶 液 浸 度 为 0. 000 025M , 即 每 毫 升 含 对 苯 二 酝 0. 025Rmol( 乙 液 ) 。
+
+D2.4. 1.3 取 6 个 5omL 容 量 瓶 , 分 别 加 人 标 准 稀 释 液 ( 乙 液 10;0. 1;0. 2;0. 3;0. 4;0. 5hmol 对 萃 二 ( 即 4. 0;8. 0112. 0;16. 0120. OmL 乙 液 ) , 加 人 适 量 燃 傲 水 , 使 各 容 量 瓶 中 大 约 为 20mL 溶 波 。
+-----------------------------------
+酝
+
+D2. 4. 1.4 用 刻 度 呆 管 加 人 1 ; 1 磷 酸 2mlL。
+
+D2. 4. 1.5 用 呆 管 取 饱 和 氯 化 钠 溶 液 5mL.。
+
+可
+
+D2. 4. 1.6 用 服 管 取 0. IN 滨 酸 钾 - 溶 化 钾 温 液 2ml , 尽 能 不 要 涎 在 颊 壁 上 。 用极少重曲l{J水薯'噜】宴穸鲑墅簪瓦壁~_熹 并 摇 匀 。 溶 液 应 是 氯 滨 的 泼 黄 色 。 放 人 35CC 佩 温 水 浴 锡 内 , 放 置 15min。
+
+D2. 4. 1.7 吟 取 20% 滨 化 钾 溶 液 2mL , 沿 瓶 壁 周 图 加 人 容 量 瓶 中 。 摇 匀 后 放 在 35C 水 浴 中 5 一 10min D2. 4. 1.8 用 滴 管 快 速 加 人 5%% 柘 酚 溶 液 ImL , 立 即 摇 匀 , 使 溶 的 颜 色 退 去 。 ( 如 慢 慢 加 人 则 易 生 成 白 色 沉 淀 , 无 法 比 色 ) 一
+
+, ,
+
+D2. 4. 1.9 降 温 ; 放 自 来 水 中 降 温 3min。
+
+1
+
+D2. 4. 1. 10 “ 用 妓 管 加 人 新 配 制 的 55% 磺 化 钾 溶 液 2mL , 冲 洗 瓶 壁 ; 放 人 暗 柜 5min。
+
+D2.4. 1.11 吾 取 0. 2% 清 粉 指 示 剂 10mL., 加 人 容 量 瓶 中 , 用 蒸 馋 水 加 至 刻 度 , 加 盖 摇 匀 后 , 放 暗 柜 中 20min 。.
+-----------------------------------
+;
+
+D2. 4. 1. 12 将 发 色 试 液 分 别 放 人 2cm 比 色 槽 中 , 在 分 光 光 度 计 570nm 处 , 以 试 茨 空 白 为 零 , 分 别 测 出 5 个 溶 液 的 光 宿 度 , 并 绘 制 出 标 准 曲 线 。 横 坐 标 为 0. 1.0. 2.0. 3.0.4,0. 5mol/50mL.。 D2: 4.2 水 样 的 测 定 量
+
+|
+
+|
+
+取 水 样 适 量 ( 约 1 一 1OmL) 放 人 50mL 容 量 瓶 中 , 并 加 蒸 馍 水 至 20mL 左 右 , 于 另 一 个 50mL 容 量 掘 中 加 20mL 蒸 饲 水 作 试 剂 空 白 。 以 下 按 步 骠 D2.4. 1.4~D2. 4. 1. 12 进 行 , 测 出 水 样 的 光 密 度 , 在 曲 线 上 查 出 50mL 中 所 含 微 克 分 子 数 。
+
+D2. 4.
+-----------------------------------
+需 排 除 干 抗 的 水 桦 测 定
+
+当 水 样 中 含 有 六 价 胺 离 子 而 影 响 测 定 时 , 可 用 NaNOs 将 Cr+e 还 原 成 Cr+e, 用 过 量 的 原 素 去 的 NaNOu 对 本 实 验 的 干 扰 , 即 可 达 到 消 除 铭 干 扰 的 目 的 。 国 园
+-----------------------------------
+| 除 多 仁
+
+准 确 取 适 量 的 水 样 ( 约 1 一 10mL) , 放 人 50mL 容 量 瓶 中 , 加 人 燃 儋 水 至 20mL 左 右 , 加 人 1 : 1 磷 2mL , 再 加 人 3 滴 10%NaNOa, 充 分 振 荬 , 放 人 35 仁 恒 温 水 浴 中 15min。 再 加 人 20% 尿 豚 2mL , 充 分 荬 , 放 人 35C 水 浴 中 10min。 以 下 操 作 按 步 骤 D2.4. 1. 5 一 D2. 4. 1. 12 进 行 , 测 出 光 密 度 , 在 曲 线 上 查 出 5omL 中 所 含 微 克 分 子 数 。 《
+-----------------------------------
+酸 』 描
+
+D2.5 计 算
+
+王
+
+水 样 中 显 影 剂 及 氧 化 物 总 量 C( 以 对 苯 二 酚 计 ) 按 式 (D2) 计 算 :
+
+【
+
+D2. 6 注 意 事 项
+
+_ 50mL 中 微 摩 尔 数 X110 CGmg/L) 一 眼 根 体 秘 GnLy 一 {]蛳_【才叠只'〈【〕【】I′) 〉〈1 OOO
+-----------------------------------
+J (D乏菖寡 王
+
+288
+
+GB 8978 一 1996 “ D2.6. 1 本 试 验 步 骤 多 , 时 间 长 , 因 此 要 求 操 作 仔 细 认 真 。 , D2. 6. 2 所 用 玻 璃 器 盂 必 须 用 清 洁 液 洗 净 。 ,「D2.6. 3 水 浴 温 度 要 准 确 在 35CC 土 1C , 每 个 步 骤 反 应 时 间 要 准 确 控 制 。 “ D2.6.4 加人溴酸钾_溴化钾后,红Z、.亥膘寸用崇趸1t蜃7j〈7′中饕丨官容量挪睿瓦壁，否庾!‖残留耆臭I曹1度′溟薯…与翩囊化丨直耆】作用生】瞳耆五l箩睫， , 使 光 密 度 增 加 。 , D2.6. 5 在 无 铭 离 子 的 废 水 中 , 水 样 可 不 必 处 理 , 直 接 进 行 测 定 。 D2.6.6 “ 水 样 如 太 浓 , 则 预 先 稀 释 再 进 行 测 定 。 D3 元豪饕ii丨l屋崛′(]滇定一覆'霍零目蓝妻I二′色7法售= D3.1 原 理 元 素 磷 经 苯 犊 取 后 氧 化 形 成 的 钿 磷 酸 为 氯 化 亚 锡 还 原 成 蓝 色 银 合 物 . 灵 敏 度 比 钒 钿 磷 酸 比 色 法 高 , 并 明 易 于 富 集 , 富 集 后 能 提 高 元 河 磷 含 量 小 于 0. 1mg/L 时 检 测 的 可 靠 性 , 并 减 少 干 扰 。 “ 永 样 中 含 砻 化 物 、 硅 化 物 和 硫 化 物 的 量 分 别 为 元 豚 磷 含 量 的 100 倾 、200 倾 和 300 借 时 , 对 本 方 证 无 明 显 干 批 。 “ D3.2 仪 器 和 试 剂 D3.2. 1 仪 器 : 分 光 光 度 计 :Scm 比 色 皿 。 D3.2. 2 比 色 管 :50mL。 D3.2. 3 分 液 漏 斗 :604125、250mL。 D3. 2. 4 磨 口 锥 形 瓶 ;250mL。 D3.2.5 试 剂 : 以 下 试 剂 均 为 分 析 给 : 苯 、 高 氯 酸 , 溶 酸 钾 . 滨 化 钾 . 甘 泼 、 氯 化 亚 锡 钿 酸 钿 、 礁 酸 二 氢 饲 . 乙 酸 丁 酯 、 硫 酸 、 硝 酸 、 无 水 乙 醇 、 酚 酞 指 示 剂 。 D3.3 溶 波 的 配 制 D3. 3. 1 磷 酸 二 氢 钾 标 准 溶 液 : 准 确 称 取 0. 4394g 干 燥 过 的 磷 酸 一 氡 钾 , 滨 于 少 量 水 中 , 移 人 1 000mL 容 量 瓶 中 , 定 容 。 此 溶 液 POF> 一 P 含 量 为 0. 1mg/mL。 取 10mL 上 述 溶 液 于 1 000mL 容 量 瓶 中 , 定 容 , , 得 到 POrs 一 P 含 量 为 1g/mL 的 磷 酸 二 氡 钾 标 准 溶 液 。 . D3.3. 2 溴 酸 钾 - 溶 化 钾 溶 液 ; 溶 解 10g 滨 酸 钾 和 8g 溶 化 钾 于 400mL 水 中 。 D3.3. 3 2.55% 钿 酸 镀 溶 液 : 称 取 2. 5g 钿 酸 铧 , 加 1 : 1 硫 酸 溶 液 70mL , 待 钿 酸 镀 溶 解 后 再 加 人 30mL 水 。 D3. 3.4 2.5% 氯 化 亚 锡 甘 油 溶 液 : 溶 解 2. 5g 氯 化 亚 锡 于 100mL 甘 油 中 《 可 在 水 浪 中 加 热 , 促 进 滑 解 ) 。 D3. 3. 5 5% 钿 酸 铁 溶 波 : 溶 解 12. 5g 钿 酸 镀 于 150mL 水 中 , 溶 解 后 将 此 液 缓 慢 地 倒 人 100mL1 : 5 的 硝 酸 溶 液 中 。 D3. 3.6 1% 氯 化 亚 锡 溶 液 ; 滨 解 1g 氯 化 亚 锡 于 15mL 盐 酸 中 , 加 人 85mL 水 及 1. 5g 抗 坏 血 酸 。〔 可 保 存 4~-5 天 )。 D3. 3.7 1 : 1 硫 酸 溶 液 、1 ; 5 硝 酸 溶 液 、20% 氢 氧 化 钠 滨 液 。 D3.4 测 定 步 骤 4. 1 元 素 磷 含 量 大 于 0. 05mg/L 时 , 木 取 水 相 直 接 比 , 按 下 列 规 定 操 作
+-----------------------------------
+D3. 4. 1 废 水 中 元 素 磷 含 量 大 于 0. 05mg/L 时 , 木 取 水 相 直 接 比 色 , 按 下 列 规 定 操 作 。
+
+D3.4. 1.1 水 样 预 处 理
+
+a 萃 取 ; 移 取 10~ 一 100mL 水 样 于 度 有 25mL 苯 的 125mL 或 250mL 的 分 液 漪 斗 中 , 振 荡 5min 后 静 置 分 层 。 将 水 相 移 人 另 一 盂 有 15mlL 苯 的 分 液 漪 斗 中 , 振 荡 2min 后 静 置 , 弃 去 水 相 , 将 苯 相 并 人 第 一 支 分 渡 漪 斗 中 。 加 人 15mL 水 , 振 荡 Imin 后 静 置 , 弃 去 水 相 , 苯 相 重 复 操 作 水 洗 6 次 。
+
+, 5) 氢 化 : 在 棣 相 中 加 人 10 一 15mL 溴 酸 钾 - 滨 化 钾 溶 液 ,2mL1 , 1 硫 酸 溶 液 振 荡 5min , 静 置 2min - 后 加 人 2mL 高 氯 酸 , 再 振 荡 5min, 移 人 250mL 锭 形 瓶 内 , 在 电 热 板 上 缓 缓 加 热 以 驱 赶 过 量 高 氯 酸 和 除
+-----------------------------------
+GB 8978 一 1996
+
+澧 ( 勿 使 样 品 渡 出 或 蒸 干 ), 至 白 烟 减 少 时 , 取 下 冷 却 。 加 人 少 量 水 及 1 滴 酣 酞 指 示 剂 , 用 20% 氢 氧 化 俏 : 温 液 中 和 至 昏 粉 红 色 , 加 1 滴 1 ; 硫 酸 溶 液 至 粉 红 色 消 失 , 移 人 容 量 瓶 中 , 用 蒸 馋 水 稀 释 至 刻 度 ( 据 元 素 磷 的 含 量 确 定 稀 释 体 积 ) 。 。 训
+
+“
+
+D3.4. 1.2 “ 比 色
+
+|
+-----------------------------------
+酸
+
+秽 取 适 量 上 述 的 稀 释 液 于 50mL 比 色 算 中 , 加 2mL2. 5 弘 钿 钿 溱 液 及 6 滴 2 5% 氯 化 亚 锡 甘 油 液 , 加 水 稀 释 至 刻 度 , 混 匀 , 于 20 一 30C 放 置 20 一 30min, 倾 人 3em 比 色 皿 中 , 在 分 光 光 度 计 690nm 波 长 处 , 以 试 茨 空 白 为 零 , 测 光 密 度 。 |
+
+1.3
+-----------------------------------
+绘
+
+D3.4. 直 接 比 色 工 作 曲 线 的 制
+
+a) 移 取 适 量 的 磷 酸 二 氢 钾 标 准 溶 液 , 使 POrs 一 P 的 含 量 分 别 为 0.1.3.5、7......17g 于 50mL 比 艳 管 中 , 测 光 密 度 。 继
+
+b) 以 POFs 一 P 含 量 为 横 坐 标 , 光 密 度 为 纵 坐 标 , 绘 制 宇 接 比 色 工 作 曲 线 。
+
+D3.4.2 废 水 中 元 綦 磷 吾 量 小 于 0.05mg/L 时 , 林 用 有 机 相 莲 联 比 色 。 按 下 列 规 定 操 体 D3.4. 2.1 水 样 预 处 理
+
+.
+
+萃 取 比 色 : 移 取 适 量 的 氯 化 稀 释 液 于 60mL 分 液 漏 斗 已 含 有 3mL 的 1 : 5 硝 酸 溶 液 中 , 加 入 』 7mL155% 钿 酸 镀 溶 液 和 10mL 乙 酸 丁 酬 , 振 荔 Imin, 弃 去 水 相 , 向 有 机 相 加 2mL15% 氮 化 亚 锡 溶 液 , 播 匀 , 再 加 人 ImL 无 水 乙 醇 , 轻 轻 转 动 分 液 漏 斗 , 使 水 球 下 降 , 放 尽 水 相 , 将 有 机 相 倾 人 3em 比色皿中，在】 分 光 光 度 计 630 或 720nm 波 长 处 , 以 试 剂 空 白 为 零 测 光 密 度 。 D3. 4.2.2 有 机 相 萃 取 比 色 工 作 曲 线 的 绘 制
+-----------------------------------
+a) 移 取 适 量 的 磷 酸 二 氢 钾 标 准 温 液 , 使 POrs 一 P 含 量 分 别 为 1.2、.3、4、5g 于 60mL 釜壬箩【寮漏斗中;] 加 人 少 量 的 水 , 以 下 按 上 节 犊 取 比 色 步 骤 进 行 : 国
+
+】 j b) 以 PO3 一 P 含 量 为 横 坐 标 , 光 密 度 为 纵 坐 标 , 绘菅|晏‖有着，L】'智萃翦z比色工作曲乡谯戈 D3.5 计 算 一 一 1
+
+用 式 (D3) 计 算 直 接 比 色 和 有 机 相 萃 取 比 色 测 得 LL 废 水 中 元 素 磷 的 毫 克 数 。 …
+
+| , D “
+-----------------------------------
+c P=I/l P
+
+式 中 : G 卯
+
+一 从 工 作 曲 线 查 得 元 素 磷 量 ,g3 一 取 庞 水 水 样 体 积 ,mL; 一 一 废 水 水 样 氧 化 后 稀 释 体 积 ,mL.; 一 一 比 色 时 取 稀 释 液 的 体 积 ,mL。 平 行 测 定 两 个 结 果 的 差 数 , 不 应 超 过 较 小 绪 果 的 0 公 。 取 平 行 测 定 两 个 结 果 的 算 术 平 均 值 作 为 样 品 中 元 素 磷 的 含 量 值 为 6 一 7, 可 于 塑 料 瓶 或 玻 璋 瓶 贮 存 48h 。
+
+一
+
+一
+-----------------------------------
+a
+
+s
+
+D3. 6 精 确 度
+
+|
+
+D3.7 “ 样 品 俳 存
+
+采 样 后 调 节 水 样 pH
+
+「
+
+测 定 结 果 取 两 位 有 效 数 字 。
+
+290
+
+口
+
+湛 j
+
+野 善 :
+-----------------------------------
+1 计 刑
+
+善 否
